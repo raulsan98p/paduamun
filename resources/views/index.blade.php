@@ -185,13 +185,16 @@
 			<div class="about-row">
 				<div class="about-left">
 					<h2 class="def-title wow fadeInLeft" data-wow-delay="0.2s">About this team</h2>
-					<div class="def-desc wow fadeInLeft" data-wow-delay="0.3s">
-						<center><strong>Paduamun2024</strong> is a full service building design company with a simple and unique design and construction philosophy. We believe that one building designer will take the job from concept on paper to implementation on your site. Cause; by doing this, you can communicate and work with one person, where you can share your thoughts and ideas to bring them to life in collaboration.
-					</div></center>
+					<div align="justify" class="def-desc wow fadeInLeft" data-wow-delay="0.3s">
+						<strong>San Antonio de Padua Model United Nations</strong> is a project born in 2017, a simulation of international relations for high school students. In PADUAMUN delegates can assume different global perspectives and make international decisions, it is an exciting opportunity for young people to debate crucial issues of the moment and propose innovative and creative solutions. Participants develop skills throughout the MUN process, such as leadership, public speaking, negotiation, teamwork, and policy making. 
+						Unified in the spirit of the United Nations, Padua MUN seeks to foster a collaborative space for open dialogue on a variety of complex and current issues. Delegates are asked to develop their criticality about the world around them in new and ambitious ways, answering the questions: What role has to be own when playing in today's global scenario? What achievements can the world achieve in promoting joint peace and development? How can we find a balance between a country's regional interests and the responsibilities it assumes towards the international community? What actions can young people take to generate positive changes in their communities and globally?
+						PADUAMUN 2024 seeks to provide you with the best space to debate and learn about the culture and customs of the Peruvian jungle. It is our first external Model United Nations conference, which fills us with great emotion and expectation. Our team has a deep commitment to innovation, and paving the way for young leaders of the future to express their ideas and engagement to the world in regions such as Tarapoto.
+
+					</div>
 				</div>
 	
 				<div class="about-right">
-					<img src="images/sap/logomun.png" alt="logomun" class="wow fadeIn" data-wow-delay="0.5s">
+					<img src="images/team1.jpg" alt="logomun" class="wow fadeIn" data-wow-delay="0.5s">
 				</div>
 			</div>
 
@@ -620,7 +623,7 @@
 				<div class="about-left">
 					<h2 class="def-title wow fadeInLeft" data-wow-delay="0.2s">About this wonderful and dedicated team</h2>
 					<div class="def-desc wow fadeInLeft" data-wow-delay="0.3s">
-						<center><strong>Paduamun2024</strong> is a full service building design company with a simple and unique design and construction philosophy. We believe that one building designer will take the job from concept on paper to implementation on your site. Cause; by doing this, you can communicate and work with one person, where you can share your thoughts and ideas to bring them to life in collaboration.
+						<center><strong>Paduamun2024</strong> in collaboration...
 					</div></center>
 				</div>
 	
@@ -645,7 +648,7 @@
 				<div class="swiper-slide">
 						<div class="reviews-item wow fadeInUp" data-wow-delay="0.3s">
 							<div class="reviews-thumb">
-								<img src="images/sap/ariana.png" alt="ariana">
+								<img src="images/ariana.jpg" alt="ariana">
 							</div>
 							
 							<div class="reviews-body">
@@ -663,7 +666,7 @@
 					<div class="swiper-slide">
 						<div class="reviews-item wow fadeInUp" data-wow-delay="0.2s">
 							<div class="reviews-thumb">
-								<img src="images/sap/edin.png" alt="Edin">
+								<img src="images/edin.jpg" alt="Edin">
 							</div>
 
 							<div class="reviews-body">
@@ -681,7 +684,7 @@
 					<div class="swiper-slide">
 						<div class="reviews-item wow fadeInUp" data-wow-delay="0.4s">
 							<div class="reviews-thumb">
-								<img src="images/sap/ilenka.png" alt="ilenka">
+								<img src="images/ilenka.jpg" alt="ilenka">
 							</div>
 							
 							<div class="reviews-body">
@@ -699,7 +702,7 @@
 					<div class="swiper-slide">
 						<div class="reviews-item">
 							<div class="reviews-thumb">
-								<img src="images/sap/thais.png" alt="alejandra">
+								<img src="images/thais.jpg" alt="alejandra">
 							</div>
 							
 							<div class="reviews-body">
@@ -717,7 +720,7 @@
 					<div class="swiper-slide">
 						<div class="reviews-item">
 							<div class="reviews-thumb">
-								<img src="images/sap/elena.png" alt="elena">
+								<img src="images/elena.jpg" alt="elena">
 							</div>
 							
 							<div class="reviews-body">
@@ -735,7 +738,7 @@
 					<div class="swiper-slide">
 						<div class="reviews-item">
 							<div class="reviews-thumb">
-								<img src="images/sap/astrid.png" alt="astrid">
+								<img src="images/astrid.jpg" alt="astrid">
 							</div>
 							
 							<div class="reviews-body">
