@@ -12,6 +12,7 @@
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="css/estilosmodal.css">
+	<link rel="stylesheet" href="css/stylo.css">
 	
 	
 	<title>PADUAMUN 2024</title>
@@ -142,8 +143,6 @@
 	</header>
 
 		<!-- CARRUSEL SECTION INICIO -->
-	<section class="s-banner">
-		
 		<div class="swiper banner-swiper">
 			
 			<div class="swiper-wrapper">
