@@ -186,10 +186,10 @@
 				<div class="about-left">
 					<h2 class="def-title wow fadeInLeft" data-wow-delay="0.2s">About this team</h2>
 					<div align="justify" class="def-desc wow fadeInLeft" data-wow-delay="0.3s">
-						<strong>San Antonio de Padua Model United Nations</strong> is a project born in 2017, a simulation of international relations for high school students. In PADUAMUN delegates can assume different global perspectives and make international decisions, it is an exciting opportunity for young people to debate crucial issues of the moment and propose innovative and creative solutions. Participants develop skills throughout the MUN process, such as leadership, public speaking, negotiation, teamwork, and policy making. 
-						Unified in the spirit of the United Nations, Padua MUN seeks to foster a collaborative space for open dialogue on a variety of complex and current issues. Delegates are asked to develop their criticality about the world around them in new and ambitious ways, answering the questions: What role has to be own when playing in today's global scenario? What achievements can the world achieve in promoting joint peace and development? How can we find a balance between a country's regional interests and the responsibilities it assumes towards the international community? What actions can young people take to generate positive changes in their communities and globally?
-						PADUAMUN 2024 seeks to provide you with the best space to debate and learn about the culture and customs of the Peruvian jungle. It is our first external Model United Nations conference, which fills us with great emotion and expectation. Our team has a deep commitment to innovation, and paving the way for young leaders of the future to express their ideas and engagement to the world in regions such as Tarapoto.
-
+						<strong>San Antonio de Padua Model United Nations</strong> is an educational simulation in which students represent leaders or member countries of the United Nations and, through a debate on current international events, fictitious decisions are made between all countries. involved. Our project was born in 2017 and the students have participated in it in an active, innovative and creative way. This is because throughout this process they develop different skills such as leadership, public speaking, negotiation, diplomacy, teamwork and policy development. 
+Unifyed in the spirit of the United Nations, PaduaMUN seeks to foster a collaborative space for open and diplomatic dialogue on a variety of complex and current issues. Delegates are asked to develop their criticality about the world around them in new and ambitious ways by answering the questions: What role do international organizations such as the United Nations play in today's global scenario? What achievements can these international organizations achieve in promoting world peace and development? How can we find a balance between a country's regional interests and the responsibilities it assumes towards the international community? What actions can young people take to generate positive changes in their communities and globally?
+PaduaMUN 2024 seeks to provide them with the best space in school life to debate and learn about our culture and customs of the Peruvian jungle. This year, 2024, is our first external Model United Nations conference, with the participation of other schools, which fills us with great excitement and expectation. 
+Our team has a deep commitment to innovation and, above all, to paving the way for the young leaders of the future to express their ideas and commitment to the world and not only within our Peru.
 					</div>
 				</div>
 	
@@ -788,9 +788,9 @@
 			<div class="form-row">
 
 				<div class="form-left">
-					<h2 class="def-title">Do you have any questions?</h2>
+					<h2 class="def-title">Would you like to participate in any session?</h2>
 					<div class="def-desc">
-						If you have any questions or would like to participate in the 2024 session. Please, feel free to contact us by email or phone call.
+						If you have any questions or would like to participate in the 2024 session. Please, feel free to contact us.
 					</div>
 					<div class="form-image">
 						<img src="images/sap/form.jpg" alt="formimg">
@@ -845,7 +845,7 @@
 						</div>
 						<a href="tel:+5195070619" class="footer-info-item">
 							<div class="footer-info-icon"><img src="images/phone-gray.svg" alt="Phone"></div>
-							<div class="footer-info-text">+51 950 706 19</div>
+							<div class="footer-info-text">+51 950 706 191</div>
 						</a>
 
 						<div class="footer-social">
