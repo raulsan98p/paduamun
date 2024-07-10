@@ -58,7 +58,7 @@
 					<!-- Header top mobile END -->
 
                     <!-- AQUI COMIENZA EL NAV BAR PRINCIPAL  -->
-					<div class="header-desc">#paduamun2024</div>
+					<div class="header-desc"><strong>#paduamun2024</strong></div>
 					<div class="header-right">
 						<div class="header-info">
 							<img src="images/location.svg" alt="located">
