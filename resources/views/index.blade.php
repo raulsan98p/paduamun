@@ -194,7 +194,7 @@
 				</div>
 	
 				<div class="about-right">
-					<img src="images/team1.jpg" alt="logomun" class="wow fadeIn" data-wow-delay="0.5s">
+					<img style="border-radius: 10px" src="images/team1.jpg" alt="logomun" class="wow fadeIn" data-wow-delay="0.5s">
 				</div>
 			</div>
 
@@ -307,12 +307,8 @@
 								<img src="images/sap/co11.png" alt="comite2"><br><br>
 								<h2>PNUMA</h2>
 							</div>
-
-						
-
 				</div>
-
-							</div>
+</div>
 							
 						<!-- MODAL INICIO -->
 							<div class="products-preview">
@@ -435,11 +431,99 @@
 <!-- COMITÉS FIN -->
 
 <!-- AQUI COMIENZA LA GALERÍA 1 -->
-	<section class="s-gallery" id="s-gallery">
+<section class="s-gallery" id="s-gallery">
 		<div class="container">
 		<h1 class="center-title wow fadeIn" data-wow-delay="0.1s">GALLERY</h1>
-			<h2 class="center-title wow fadeIn" data-wow-delay="0.1s">NEWTONMUN - LIMA 2024</h2>
+			<h2 class="center-title wow fadeIn" data-wow-delay="0.1s">PADUAMUN INTERNO 2024</h2>
 
+			<div class="gallery-wrap">
+				<a href="images/pmun1.jpg" class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.2s">
+					<span class="gallery-border"></span>
+					<img src="images/pmun1.jpg" alt="Image 1">
+				</a>
+				<a href="images/pmun2.jpg"  class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.3s">
+					<span class="gallery-border"></span>
+					<img src="images/pmun2.jpg"  alt="Image 2">
+				</a>
+				<a href="images/pmun3.jpg" class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.4s"> 
+					<span class="gallery-border"></span>
+					<img src="images/pmun3.jpg" alt="Image 3">
+				</a>
+				<a href="images/pmun4.jpg" class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.5s">
+					<span class="gallery-border"></span>
+					<img src="images/pmun4.jpg" alt="Image 4">
+				</a>
+				<a href="images/pmun5.jpg" class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.6s">
+					<span class="gallery-border"></span>
+					<img src="images/pmun5.jpg" alt="Image 5">
+				</a>
+				<a href="images/pmun6.jpg" class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.7s">
+					<span class="gallery-border"></span>
+					<img src="images/pmun6.jpg" alt="Image 6">
+				</a>
+
+				<a href="images/pmun7.jpg" class="gallery-items3" data-effect="mfp-zoom-in">
+					<span class="gallery-border"></span>
+					<img src="images/pmun7.jpg" alt="Image 7">
+				</a>
+				<a href="images/pmun8.jpg" class="gallery-items3" data-effect="mfp-zoom-in">
+					<span class="gallery-border"></span>
+					<img src="images/pmun8.jpg" alt="Image 8">
+				</a>
+				<a href="images/pmun9.jpg" class="gallery-items3" data-effect="mfp-zoom-in"> 
+					<span class="gallery-border"></span>
+					<img src="images/pmun9.jpg" alt="Image 9">
+				</a>
+				<a href="images/pmun10.jpg" class="gallery-items3" data-effect="mfp-zoom-in">
+					<span class="gallery-border"></span>
+					<img src="images/pmun10.jpg" alt="Image 10">
+				</a>
+				<a href="images/pmun11.jpg" class="gallery-items3" data-effect="mfp-zoom-in">
+					<span class="gallery-border"></span>
+					<img src="images/pmun11.jpg" alt="Image 11">
+				</a>
+				<a href="images/pmun12.jpg" class="gallery-items3" data-effect="mfp-zoom-in">
+					<span class="gallery-border"></span>
+					<img src="images/pmun12.jpg" alt="Image 12">
+				</a>
+				<a href="images/pmun13.jpg" class="gallery-items3" data-effect="mfp-zoom-in">
+					<span class="gallery-border"></span>
+					<img src="images/pmun13.jpg" alt="Image 13">
+				</a>
+				<a href="images/pmun14.jpg" class="gallery-items3" data-effect="mfp-zoom-in">
+					<span class="gallery-border"></span>
+					<img src="images/pmun14.jpg" alt="Image 14">
+				</a>
+				<a href="images/pmun15.jpg" class="gallery-items3" data-effect="mfp-zoom-in">
+					<span class="gallery-border"></span>
+					<img src="images/pmun15.jpg" alt="Image 15">
+				</a>
+				<a href="images/pmun16.jpg" class="gallery-items3" data-effect="mfp-zoom-in">
+					<span class="gallery-border"></span>
+					<img src="images/pmun16.jpg" alt="Image 16">
+				</a>
+				<a href="images/pmun17.jpg" class="gallery-items3" data-effect="mfp-zoom-in">
+					<span class="gallery-border"></span>
+					<img src="images/pmun17.jpg" alt="Image 17">
+				</a>
+				<a href="images/pmun18.jpg" class="gallery-items3" data-effect="mfp-zoom-in">
+					<span class="gallery-border"></span>
+					<img src="images/pmun18.jpg" alt="Image 18">
+				</a>
+			</div>
+
+			<div class="gallery-btn3" style="text-align: center;margin-top: 44px;">
+				<a href="#" class="def-btn wow fadeInUp" data-wow-delay="0.2s">Show more</a>
+			</div>
+
+		</div>
+	</section>
+<!-- AQUI TERMINA LA GALERÍA 1  -->
+
+<!-- AQUI COMIENZA LA GALERÍA 2  -->
+<section class="s-gallery" id="s-gallery">
+		<div class="container">
+			<h2 class="center-title wow fadeIn" data-wow-delay="0.1s">NEWTONMUN - LIMA 2024</h2>
 			<div class="gallery-wrap">
 				<a href="images/sap/num1.jpg" class="gallery-item wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.2s">
 					<span class="gallery-border"></span>
@@ -482,9 +566,10 @@
 			
 		</div>
 	</section>
-<!-- AQUI TERMINA LA GALERÍA 1  -->
+	<!-- AQUI TERMINA LA GALERÍA 2  -->
 
-<!-- AQUI COMIENZA LA GALERÍA 2  -->
+
+<!-- AQUI COMIENZA LA GALERÍA 3  -->
 <section class="s-gallery" id="s-gallery">
 		<div class="container">
 			<h2 class="center-title wow fadeIn" data-wow-delay="0.1s">NHSMUN50 - NYC, USA 2024</h2>
@@ -547,73 +632,7 @@
 
 		</div>
 	</section>
-	<!-- AQUI TERMINA LA GALERÍA 2  -->
-
-
-<!-- AQUI COMIENZA LA GALERÍA 3  -->
-<section class="s-gallery" id="s-gallery">
-		<div class="container">
-			<h2 class="center-title wow fadeIn" data-wow-delay="0.1s">NHSMUN50 - NYC, USA 2024</h2>
-
-			<div class="gallery-wrap">
-				<a href="images/sap/ny (1).jpg" class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.2s">
-					<span class="gallery-border"></span>
-					<img src="images/sap/ny (1).jpg" alt="Image 1">
-				</a>
-				<a href="images/sap/ny (2).jpg"  class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.3s">
-					<span class="gallery-border"></span>
-					<img src="images/sap/ny (2).jpg"  alt="Image 2">
-				</a>
-				<a href="images/sap/ny (3).jpg" class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.4s"> 
-					<span class="gallery-border"></span>
-					<img src="images/sap/ny (3).jpg" alt="Image 3">
-				</a>
-				<a href="images/sap/ny (4).jpg" class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.5s">
-					<span class="gallery-border"></span>
-					<img src="images/sap/ny (4).jpg" alt="Image 4">
-				</a>
-				<a href="images/sap/ny (5).jpg" class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.6s">
-					<span class="gallery-border"></span>
-					<img src="images/sap/ny (5).jpg" alt="Image 5">
-				</a>
-				<a href="images/sap/ny (6).jpg" class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.7s">
-					<span class="gallery-border"></span>
-					<img src="images/sap/ny (6).jpg" alt="Image 6">
-				</a>
-
-				<a href="images/sap/ny (7).jpg" class="gallery-items3" data-effect="mfp-zoom-in">
-					<span class="gallery-border"></span>
-					<img src="images/sap/ny (7).jpg" alt="Image 7">
-				</a>
-				<a href="images/sap/ny (8).jpg" class="gallery-items3" data-effect="mfp-zoom-in">
-					<span class="gallery-border"></span>
-					<img src="images/sap/ny (8).jpg" alt="Image 8">
-				</a>
-				<a href="images/sap/ny (9).jpg" class="gallery-items3" data-effect="mfp-zoom-in"> 
-					<span class="gallery-border"></span>
-					<img src="images/sap/ny (9).jpg" alt="Image 9">
-				</a>
-				<a href="images/sap/ny (10).jpg" class="gallery-items3" data-effect="mfp-zoom-in">
-					<span class="gallery-border"></span>
-					<img src="images/sap/ny (10).jpg" alt="Image 10">
-				</a>
-				<a href="images/sap/ny (11).jpg" class="gallery-items3" data-effect="mfp-zoom-in">
-					<span class="gallery-border"></span>
-					<img src="images/sap/ny (11).jpg" alt="Image 11">
-				</a>
-				<a href="images/sap/ny (12).jpg" class="gallery-items3" data-effect="mfp-zoom-in">
-					<span class="gallery-border"></span>
-					<img src="images/sap/ny (12).jpg" alt="Image 12">
-				</a>
-			</div>
-
-			<div class="gallery-btn3" style="text-align: center;margin-top: 44px;">
-				<a href="#" class="def-btn wow fadeInUp" data-wow-delay="0.2s">Show more</a>
-			</div>
-
-		</div>
-	</section>
-	<!-- AQUI TERMINA LA GALERÍA 3  -->	
+<!-- AQUI TERMINA LA GALERÍA 3  -->	
 
 <!-- AQUI EMPIEZA LOS PROFES  -->
 <section class="s-team" id="s-team">
