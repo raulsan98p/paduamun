@@ -141,26 +141,26 @@
 		<!-- Header mobile END -->
 
 	</header>
-
+	<section>
 		<!-- CARRUSEL SECTION INICIO -->
 		<div class="swiper banner-swiper">
 			
 			<div class="swiper-wrapper">
-				<div class="swiper-slide" style="background-image: url(images/sap/d1.png)">
+				<div class="swiper-slide" style="background-image: url(images/d1.JPG)">
 					<div class="banner-content">
-						<div class="banner-subtitle wow fadeIn " data-wow-delay="0.1s"><strong>San Antonio de Padua</strong></div>
+						<div class="banner-subtitle wow fadeIn " data-wow-delay="0.1s"><strong style="background: radial-gradient(circle, rgba(63,218,251,1) 0%, rgba(3,170,19,1) 100%); border-radius:5px">San Antonio de Padua</strong></div>
 						<h2 class="banner-title wow fadeIn" data-wow-delay="0.2s"><strong>Making leaders</strong></h2>
 					</div>
 				</div>
-				<div class="swiper-slide" style="background-image: url(images/sap/d2.jpg)">
+				<div class="swiper-slide" style="background-image: url(images/d2.JPG)">
 					<div class="banner-content">
-						<div class="banner-subtitle wow fadeIn"><strong>San Antonio de Padua</strong></div>
+						<div class="banner-subtitle wow fadeIn"><strong style="background: radial-gradient(circle, rgba(63,218,251,1) 0%, rgba(3,170,19,1) 100%); border-radius:5px">San Antonio de Padua</strong></div>
 						<h2 class="banner-title"><strong>We enjoy working together</strong></h2>
 					</div>
 				</div>
-				<div class="swiper-slide" style="background-image: url(images/sap/d3.jpg)">
+				<div class="swiper-slide" style="background-image: url(images/d3.JPG)">
 					<div class="banner-content">
-						<div class="banner-subtitle"><strong>San Antonio de Padua</strong></div>
+						<div class="banner-subtitle"><strong style="background: radial-gradient(circle, rgba(63,218,251,1) 0%, rgba(3,170,19,1) 100%); border-radius:5px">San Antonio de Padua</strong></div>
 						<h2 class="banner-title"><strong>Let your dreams come true</strong></h2>
 					</div>
 				</div>
@@ -571,7 +571,7 @@ Our team has a deep commitment to innovation and, above all, to paving the way f
 <!-- AQUI COMIENZA LA GALERÍA 3  -->
 <section class="s-gallery" id="s-gallery">
 		<div class="container">
-			<h2 class="center-title wow fadeIn" data-wow-delay="0.1s">NHSMUN50 - NYC, USA 2024</h2>
+			<h2 class="center-title wow fadeIn" data-wow-delay="0.1s">NHSMUN50 - New York, USA 2024</h2>
 
 			<div class="gallery-wrap">
 				<a href="images/sap/ny (1).jpg" class="gallery-items wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.2s">
