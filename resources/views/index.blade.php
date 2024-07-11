@@ -444,10 +444,6 @@ Our team has a deep commitment to innovation and, above all, to paving the way f
 					<span class="gallery-border"></span>
 					<img src="images/pmun2.jpg"  alt="Image 2">
 				</a>
-				<a href="images/pmun3.jpg" class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.4s"> 
-					<span class="gallery-border"></span>
-					<img src="images/pmun3.jpg" alt="Image 3">
-				</a>
 				<a href="images/pmun4.jpg" class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.5s">
 					<span class="gallery-border"></span>
 					<img src="images/pmun4.jpg" alt="Image 4">
