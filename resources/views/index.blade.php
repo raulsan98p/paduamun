@@ -435,10 +435,10 @@ Our team has a deep commitment to innovation and, above all, to paving the way f
 		<h1 class="center-title wow fadeIn" data-wow-delay="0.1s">GALLERY</h1>
 			<h2 class="center-title wow fadeIn" data-wow-delay="0.1s">PADUAMUN INTERNO 2024</h2>
 
-			<div class="gallery-wrap">
+			<div  class="gallery-wrap">
 				<a href="images/pmun1.jpg" class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.2s">
 					<span class="gallery-border"></span>
-					<img src="images/pmun1.jpg" alt="Image 1">
+					<img style="border-radius:10px" src="images/pmun1.jpg" alt="Image 1">
 				</a>
 				<a href="images/pmun2.jpg"  class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.3s">
 					<span class="gallery-border"></span>
@@ -508,7 +508,7 @@ Our team has a deep commitment to innovation and, above all, to paving the way f
 			</div>
 
 			<div class="gallery-btn3" style="text-align: center;margin-top: 44px;">
-				<a href="#" class="def-btn wow fadeInUp" data-wow-delay="0.2s">Show more</a>
+				<a style="border-radius: 10px;" href="#" class="def-btn wow fadeInUp" data-wow-delay="0.2s">Show more</a>
 			</div>
 
 		</div>
