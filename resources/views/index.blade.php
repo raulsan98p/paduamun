@@ -97,7 +97,7 @@
 							<li><a class="anchor-link" href="#s-about">About us</a></li>
 							<li><a class="anchor-link" href="#s-services">Committees</a></li>
 							<li><a class="anchor-link" href="#s-gallery">Gallery</a></li>
-							<li><a class="anchor-link" href="#s-team">Our teachers</a></li>
+							<li><a class="anchor-link" href="#s-team">ONU</a></li>
 							<li><a class="anchor-link" href="#s-testimonials">Testimonials</a></li>
 							<li><a class="anchor-link" href="#s-contact">Contact</a></li>
 						</ul>
@@ -114,7 +114,7 @@
 					<li><a class="anchor-link" href="#s-about">About us</a></li>
 					<li><a class="anchor-link" href="#s-services">Committees</a></li>
 					<li><a class="anchor-link" href="#s-gallery">Gallery</a></li>
-					<li><a class="anchor-link" href="#s-team">Our teachers</a></li>
+					<li><a class="anchor-link" href="#s-team">ONU</a></li>
 					<li><a class="anchor-link" href="#s-testimonials">Testimonials</a></li>
 					<li><a class="anchor-link" href="#s-contact">Contact</a></li>
 				</ul>
@@ -247,103 +247,104 @@ Our team has a deep commitment to innovation and, above all, to paving the way f
 	</section>
 
 <!-- CCOMITÉS INICIO -->
-	<section class="s-services" id="s-services">
+<section class="s-services" id="s-services">
 		<h2 class="center-title wow fadeIn" data-wow-delay="0.1s">Our committees this year</h2>
 			<div class="container2">
 				<div class="products-container">
 
 							<div class="product wow fadeIn" data-name="p-1" data-wow-delay="0.2s">
-								<img src="images/sap/co1.png" alt="comite1" ><br><br>
-								<h2>PRESS</h2>
+								<img src="images/disecc.jpg" alt="comite1" ><br><br>
+								<h2>DISEC</h2>
 							</div>
 
 							<div class="product wow fadeIn" data-name="p-2" data-wow-delay="0.3s">
-								<img src="images/sap/co2.png" alt="comite2"><br><br>
-								<h2>SECURITY COUNCIL</h2>
+								<img src="images/tpaa.jpg" alt="comite2"><br><br>
+								<h2>TPA</h2>
 							</div>
 
 							<div class="product wow fadeIn" data-name="p-3" data-wow-delay="0.4s">
-								<img src="images/sap/co3.png" alt="comite3"><br><br>
-								<h2>UNHRC</h2>
-							</div>
-
-							<div class="product wow fadeIn" data-name="p-4" data-wow-delay="0.5s">
-								<img src="images/sap/co4.png" alt="comite2"><br><br>
+								<img src="images/crisiss.jpg" alt="comite3"><br><br>
 								<h2>CRISIS</h2>
 							</div>
 
+							<div class="product wow fadeIn" data-name="p-4" data-wow-delay="0.5s">
+								<img src="images/oeaa.jpg" alt="comite4"><br><br>
+								<h2>OEA</h2>
+							</div>
+
 							<div class="product wow fadeIn" data-name="p-5" data-wow-delay="0.6s">
-								<img src="images/sap/co5.png" alt="comite2"><br><br>
-								<h2>UNODC</h2>
+								<img src="images/natoo.jpg" alt="comite5"><br><br>
+								<h2>NATO</h2>
 								
 							</div>
 
 							<div class="product wow fadeIn" data-name="p-6" data-wow-delay="0.7s">
-								<img src="images/sap/co6.png" alt="comite2"><br><br>
-								<h2>PRENSA</h2>
+								<img src="images/uniceff.jpg" alt="comite6"><br><br>
+								<h2>UNICEF</h2>
+							</div>
+
+							<div class="product wow fadeIn" data-name="p-7" data-wow-delay="0.8s">
+								<img src="images/guides.jpg" alt="guides"><br><br>
+								<h2>STUDY GUIDES</h2>
 							</div>
 				</div>
 </div>
 							
 						<!-- MODAL INICIO -->
 							<div class="products-preview">
-							<div class="preview" data-target="p-1" style="border-top-left-radius: 50px !important" >
+							<div class="preview" data-target="p-1" style="border-bottom-right-radius: 50px !important" >
 								<i class="fa fa-times" style="font-size: 20px"></i>
-								<img src="images/press.jpg" alt="press"  ><br>
-								<strong><h3>PRESS</h3></strong>
-								<span><strong>Directora: </strong>Astrid Cuti</span><br>
-								<span><strong>Moderatora: </strong>Mackenzye Díaz</span>
-								<p style="text-align: center">El Comité de Prensa es un grupo de delegados que actúan como periodistas representando a diversas agencias de noticias y serán responsables de informar sobre los acontecimientos ocurridos en la conferencia y los respectivos debates. Además, los delegados de prensa tienen la tarea vital de crear actualizaciones, que les permiten analizar dinámicas geopolíticas complejas e informar al mundo sobre los acontecimientos que se desarrollan. Además, tienen la oportunidad de abordar nuevos ángulos de la historia haciendo preguntas incisivas en conferencias de prensa y entrevistas.</p>
+								<img style="border-radius:10px" src="images/disecdirector.jpg" alt="disec"><br>
+								<strong><h3>DISEC</h3></strong>
+								<p style="text-align: justify">El Comité de Prensa es un grupo de delegados que actúan como periodistas representando a diversas agencias de noticias y serán responsables de informar sobre los acontecimientos ocurridos en la conferencia y los respectivos debates. Además, los delegados de prensa tienen la tarea vital de crear actualizaciones, que les permiten analizar dinámicas geopolíticas complejas e informar al mundo sobre los acontecimientos que se desarrollan. Además, tienen la oportunidad de abordar nuevos ángulos de la historia haciendo preguntas incisivas en conferencias de prensa y entrevistas.</p>
 							</div>
 
-							<div class="preview" data-target="p-2" style="border-top-left-radius: 50px !important">
+							<div class="preview" data-target="p-2" style="border-bottom-right-radius: 50px !important">
 								<i class="fa fa-times" style="font-size: 20px"></i>
-								<img src="images/seco.jpg" alt="security council" ><br>
-								<h3>SECURITY COUNCIL</h3>
-								<h4><strong>Topic: </strong>The worldwide rise of authoritarianism</h4>
-								<span><strong>Director: </strong>Ilenka Ruiz</span><br>
-								<span><strong>Moderator: </strong>Krunoslav Silva</span>
-								<p style="text-align: center">Authoritarianism is the oldest and most common form of governance in human history and is considered the norm for most countries up until the modern age. Today, many political scientists and NGOs have warned that authoritarianism is on the rise again, with the highest number of autocratic governments seen since the 1990s. With this resurgence comes new threats of human rights violations (up to and including genocide), information controls, and crackdowns on speech. The Security Council thus must create a policy on how to protect the principles of democratic rule from this growing and concerning trend.</p>
+								<img style="border-radius:10px" src="images/tpadirector.jpg" alt="tpa" ><br>
+								<h3>TPA</h3>
+								<p style="text-align: justify">Authoritarianism is the oldest and most common form of governance in human history and is considered the norm for most countries up until the modern age. Today, many political scientists and NGOs have warned that authoritarianism is on the rise again, with the highest number of autocratic governments seen since the 1990s. With this resurgence comes new threats of human rights violations (up to and including genocide), information controls, and crackdowns on speech. The Security Council thus must create a policy on how to protect the principles of democratic rule from this growing and concerning trend.</p>
 							</div>
 
-							<div class="preview" data-target="p-3" style="border-top-left-radius: 50px !important">
+							<div class="preview" data-target="p-3" style="border-bottom-right-radius: 50px !important">
 								<i class="fa fa-times" style="font-size: 20px"></i>
-								<img src="images/hcr.jpg" alt="hcr" ><br>
-								<h3>United Nations High Commissioner for Refugees</h3>
-								<h4><strong>Topic: </strong>Israel–Hamas war</h4>
-								<span><strong>Director: </strong>Thais Galarreta</span><br>
-								<span><strong>Moderator: </strong>Andrea Paredes</span>
-								<p style="text-align: center">An armed conflict between Israel and Hamas-led Palestinian militant groups has been taking place chiefly in and around the Gaza Strip since 7 October 2023. It began when Hamas militants launched a surprise attack on southern Israel from the Gaza Strip. The war has had significant international repercussions, such as the death of 32,000 Palestinians in Gaza, which has lead to large protests across the world, primarily pro-Palestinian ones calling for a ceasefire and an end to the Israeli occupation.</p>
-							</div>
-
-							<div class="preview" data-target="p-4" style="border-top-left-radius: 50px !important">
-								<i class="fa fa-times" style="font-size: 20px"></i>
-								<img src="images/crisis.jpg" alt="crisis"><br>
+								<img style="border-radius:10px" src="images/crisisdirector.jpg" alt="crisis" ><br>
 								<h3>CRISIS</h3>
-								<h4><strong>Topic: </strong>Star wars: The trial of Ahsoka Tano</h4>
-								<span><strong>Director: </strong>Jaidon Gilbert</span><br>
-								<span><strong>Moderator: </strong>Jhosselyn Chú</span><br>
-								<span><strong>Crisis room: </strong>Diego Mori</span>
-								<p style="text-align: center">Ahsoka Tano, former Jedi Padawan, faced allegations of sedition by the Jedi Order and Republic. Exonerated following thorough investigation led by Jedi Knight Anakin Skywalker, uncovering Barriss Offee as the true perpetrator. Declined reinstatement into the Jedi Order, choosing to pursue an independent path.</p>
+								<p style="text-align: justify">An armed conflict between Israel and Hamas-led Palestinian militant groups has been taking place chiefly in and around the Gaza Strip since 7 October 2023. It began when Hamas militants launched a surprise attack on southern Israel from the Gaza Strip. The war has had significant international repercussions, such as the death of 32,000 Palestinians in Gaza, which has lead to large protests across the world, primarily pro-Palestinian ones calling for a ceasefire and an end to the Israeli occupation.</p>
 							</div>
 
-							<div class="preview" data-target="p-5" style="border-top-left-radius: 50px !important">
+							<div class="preview" data-target="p-4" style="border-bottom-right-radius: 50px !important">
 								<i class="fa fa-times" style="font-size: 20px"></i>
-								<img src="images/doc.jpg" alt="unodc" ><br>
-								<h3>United Nations Office on Drugs and Crime</h3>
-								<h4><strong>Topic: </strong>Illicit drug trade and drug trafficking routes</h4>
-								<span><strong>Director: </strong>Elena Pascarella</span><br>
-								<span><strong>Moderator: </strong>María Fernanda Pineda</span>
-								<p style="text-align: center">Drug trafficking, narcotics trafficking or simply drug trafficking, is the trade in illegal addictive drugs, mainly cocaine. The main economic basis of this phenomenon is this substance, since its purchase and sale finances most of a phenomenon that encompasses the manufacture, distribution, sale, market control and recycling of many narcotics. A UN study indicates that global substance trafficking generated approximately 0.3216 billion dollars in 2003, representing 0.83% of the global gross domestic product of that year.</p>
+								<img style="border-radius:10px" src="images/oeadirector.jpg" alt="oea"><br>
+								<h3>OEA</h3>
+								<p style="text-align: justify">Ahsoka Tano, former Jedi Padawan, faced allegations of sedition by the Jedi Order and Republic. Exonerated following thorough investigation led by Jedi Knight Anakin Skywalker, uncovering Barriss Offee as the true perpetrator. Declined reinstatement into the Jedi Order, choosing to pursue an independent path.</p>
 							</div>
 
-							<div class="preview" data-target="p-6" style="border-top-left-radius: 50px !important">
+							<div class="preview" data-target="p-5" style="border-bottom-right-radius: 50px !important">
 								<i class="fa fa-times" style="font-size: 20px"></i>
-								<img src="images/prensa.jpg" alt="prensa" ><br>
-								<h3>PRENSA</h3>
-								<span><strong>Directora: </strong>Astrid Cuti</span><br>
-								<span><strong>Moderatora: </strong>Mackenzye Díaz</span>
-								<p style="text-align: center">El Comité de Prensa es un grupo de delegados que actúan como periodistas representando a diversas agencias de noticias y serán responsables de informar sobre los acontecimientos ocurridos en la conferencia y los respectivos debates. Además, los delegados de prensa tienen la tarea vital de crear actualizaciones, que les permiten analizar dinámicas geopolíticas complejas e informar al mundo sobre los acontecimientos que se desarrollan. Además, tienen la oportunidad de abordar nuevos ángulos de la historia haciendo preguntas incisivas en conferencias de prensa y entrevistas.</p>
+								<img style="border-radius:10px" src="images/natodirector.jpg" alt="unodc" ><br>
+								<h3>NATO</h3>
+								<p style="text-align: justify">Drug trafficking, narcotics trafficking or simply drug trafficking, is the trade in illegal addictive drugs, mainly cocaine. The main economic basis of this phenomenon is this substance, since its purchase and sale finances most of a phenomenon that encompasses the manufacture, distribution, sale, market control and recycling of many narcotics. A UN study indicates that global substance trafficking generated approximately 0.3216 billion dollars in 2003, representing 0.83% of the global gross domestic product of that year.</p>
+							</div>
+
+							<div class="preview" data-target="p-6" style="border-bottom-right-radius: 50px !important">
+								<i class="fa fa-times" style="font-size: 20px"></i>
+								<img style="border-radius:10px" src="images/unicefdirector.jpg" alt="prensa" ><br>
+								<h3>UNICEF</h3>
+								<p style="text-align: justify">El Comité de Prensa es un grupo de delegados que actúan como periodistas representando a diversas agencias de noticias y serán responsables de informar sobre los acontecimientos ocurridos en la conferencia y los respectivos debates. Además, los delegados de prensa tienen la tarea vital de crear actualizaciones, que les permiten analizar dinámicas geopolíticas complejas e informar al mundo sobre los acontecimientos que se desarrollan. Además, tienen la oportunidad de abordar nuevos ángulos de la historia haciendo preguntas incisivas en conferencias de prensa y entrevistas.</p>
+							</div>
+							
+							<div class="preview" data-target="p-7" style="border-bottom-right-radius: 50px !important">
+								<i class="fa fa-times" style="font-size: 20px"></i>
+									<img style="border-radius:10px" src="images/guides.jpg" alt="guides" ><br>
+										<h3>Study Guides</h3>
+												<span><h4>Study guides available! Click for download! </h4></span>
+												<ul>
+													<i class="fa fa-file-pdf-o" ></i> <a id="fondoa" href="https://www.paduamun.pe/public/guias/Study Guide CRISIS-OFFICIAL.pdf" target="_blank"><strong>CRISIS</strong></a>
+													<i class="fa fa-file-pdf-o" ></i> <a id="fondoa" href="https://www.paduamun.pe/public/guias/Study Guide DISEC-OFFICIAL.pdf" target="_blank"><strong>DISEC</strong></a>
+													<i class="fa fa-file-pdf-o" ></i> <a id="fondoa" href="https://www.paduamun.pe/public/guias/Study Guide NATO-OFFICIAL.pdf" target="_blank"><strong>NATO</strong></a>
+													<i class="fa fa-file-pdf-o" ></i> <a id="fondoa" href="https://www.paduamun.pe/public/guias/Study Guide UNICEF-OFFICIAL.pdf" target="_blank"><strong>UNICEF</strong></a>
+												</ul>				
 							</div>
 			</div>
 		
@@ -551,15 +552,15 @@ Our team has a deep commitment to innovation and, above all, to paving the way f
 	</section>
 <!-- AQUI TERMINA LA GALERÍA 3  -->	
 
-<!-- AQUI EMPIEZA LOS PROFES  -->
+<!-- AQUI EMPIEZA LA ONU  -->
 <section class="s-team" id="s-team">
 		<div class="container">
-		<h2 class="center-title wow fadeIn" data-wow-delay="0.1s">Our Teachers</h2>
+		<h2 class="center-title wow fadeIn" data-wow-delay="0.1s">We visited the ONU Headquarters in NYC</h2>
 			<div class="about-row">
 				<div class="about-left">
-					<h2 class="def-title wow fadeInLeft" data-wow-delay="0.2s">About this wonderful and dedicated team</h2>
+					<h3 class="def-title wow fadeInLeft" data-wow-delay="0.2s">A wonderful experience</h3>
 					<div class="def-desc wow fadeInLeft" data-wow-delay="0.3s">
-						<center><strong>Paduamun2024</strong> in collaboration...
+						<center><strong>Paduamun2024</strong> is...
 					</div></center>
 				</div>
 	
@@ -570,7 +571,7 @@ Our team has a deep commitment to innovation and, above all, to paving the way f
 
 		</div>
 	</section>
-<!-- AQUI TERMINA LOS PROFES -->
+<!-- AQUI TERMINA LA ONU -->
 
 <!-- AQUI EMPIEZA LOS TESTIMONIOS -->
 

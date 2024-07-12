@@ -1,9 +1,8 @@
-.c-item {
-  height: 1080px;
-}
 
-.c-img {
-  height: 100%;
-  object-fit: cover;
-  filter: brightness(0.6);
+#fondoa{
+  background-color: rgb(13, 161, 7) !important;
+  color: aliceblue;
+  border-radius: 5px;
+  text-decoration: underline;
+
 }
