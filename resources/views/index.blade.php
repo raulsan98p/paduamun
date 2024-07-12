@@ -361,72 +361,72 @@ Our team has a deep commitment to innovation and, above all, to paving the way f
 			<div  class="gallery-wrap">
 				<a href="images/pmun1.jpg" class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.2s">
 					<span class="gallery-border"></span>
-					<img style="border-radius:10px" src="images/pmun1.jpg" alt="Image 1">
+					<img style="border-radius:10px"style="border-radius:10px" src="images/pmun1.jpg" alt="Image 1">
 				</a>
 				<a href="images/pmun2.jpg"  class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.3s">
 					<span class="gallery-border"></span>
-					<img src="images/pmun2.jpg"  alt="Image 2">
+					<img style="border-radius:10px"style="border-radius:10px" src="images/pmun2.jpg"  alt="Image 2">
 				</a>
 				<a href="images/pmun4.jpg" class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.5s">
 					<span class="gallery-border"></span>
-					<img src="images/pmun4.jpg" alt="Image 4">
+					<img style="border-radius:10px"style="border-radius:10px" src="images/pmun4.jpg" alt="Image 4">
 				</a>
 				<a href="images/pmun5.jpg" class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.6s">
 					<span class="gallery-border"></span>
-					<img src="images/pmun5.jpg" alt="Image 5">
+					<img style="border-radius:10px"style="border-radius:10px" src="images/pmun5.jpg" alt="Image 5">
 				</a>
 				<a href="images/pmun6.jpg" class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.7s">
 					<span class="gallery-border"></span>
-					<img src="images/pmun6.jpg" alt="Image 6">
+					<img style="border-radius:10px" src="images/pmun6.jpg" alt="Image 6">
 				</a>
 
 				<a href="images/pmun7.jpg" class="gallery-items3" data-effect="mfp-zoom-in">
 					<span class="gallery-border"></span>
-					<img src="images/pmun7.jpg" alt="Image 7">
+					<img style="border-radius:10px" src="images/pmun7.jpg" alt="Image 7">
 				</a>
 				<a href="images/pmun8.jpg" class="gallery-items3" data-effect="mfp-zoom-in">
 					<span class="gallery-border"></span>
-					<img src="images/pmun8.jpg" alt="Image 8">
+					<img style="border-radius:10px" src="images/pmun8.jpg" alt="Image 8">
 				</a>
 				<a href="images/pmun9.jpg" class="gallery-items3" data-effect="mfp-zoom-in"> 
 					<span class="gallery-border"></span>
-					<img src="images/pmun9.jpg" alt="Image 9">
+					<img style="border-radius:10px" src="images/pmun9.jpg" alt="Image 9">
 				</a>
 				<a href="images/pmun10.jpg" class="gallery-items3" data-effect="mfp-zoom-in">
 					<span class="gallery-border"></span>
-					<img src="images/pmun10.jpg" alt="Image 10">
+					<img style="border-radius:10px" src="images/pmun10.jpg" alt="Image 10">
 				</a>
 				<a href="images/pmun11.jpg" class="gallery-items3" data-effect="mfp-zoom-in">
 					<span class="gallery-border"></span>
-					<img src="images/pmun11.jpg" alt="Image 11">
+					<img style="border-radius:10px" src="images/pmun11.jpg" alt="Image 11">
 				</a>
 				<a href="images/pmun12.jpg" class="gallery-items3" data-effect="mfp-zoom-in">
 					<span class="gallery-border"></span>
-					<img src="images/pmun12.jpg" alt="Image 12">
+					<img style="border-radius:10px" src="images/pmun12.jpg" alt="Image 12">
 				</a>
 				<a href="images/pmun13.jpg" class="gallery-items3" data-effect="mfp-zoom-in">
 					<span class="gallery-border"></span>
-					<img src="images/pmun13.jpg" alt="Image 13">
+					<img style="border-radius:10px" src="images/pmun13.jpg" alt="Image 13">
 				</a>
 				<a href="images/pmun14.jpg" class="gallery-items3" data-effect="mfp-zoom-in">
 					<span class="gallery-border"></span>
-					<img src="images/pmun14.jpg" alt="Image 14">
+					<img style="border-radius:10px" src="images/pmun14.jpg" alt="Image 14">
 				</a>
 				<a href="images/pmun15.jpg" class="gallery-items3" data-effect="mfp-zoom-in">
 					<span class="gallery-border"></span>
-					<img src="images/pmun15.jpg" alt="Image 15">
+					<img style="border-radius:10px" src="images/pmun15.jpg" alt="Image 15">
 				</a>
 				<a href="images/pmun16.jpg" class="gallery-items3" data-effect="mfp-zoom-in">
 					<span class="gallery-border"></span>
-					<img src="images/pmun16.jpg" alt="Image 16">
+					<img style="border-radius:10px" src="images/pmun16.jpg" alt="Image 16">
 				</a>
 				<a href="images/pmun17.jpg" class="gallery-items3" data-effect="mfp-zoom-in">
 					<span class="gallery-border"></span>
-					<img src="images/pmun17.jpg" alt="Image 17">
+					<img style="border-radius:10px" src="images/pmun17.jpg" alt="Image 17">
 				</a>
 				<a href="images/pmun18.jpg" class="gallery-items3" data-effect="mfp-zoom-in">
 					<span class="gallery-border"></span>
-					<img src="images/pmun18.jpg" alt="Image 18">
+					<img style="border-radius:10px" src="images/pmun18.jpg" alt="Image 18">
 				</a>
 			</div>
 
@@ -445,41 +445,41 @@ Our team has a deep commitment to innovation and, above all, to paving the way f
 			<div class="gallery-wrap">
 				<a href="images/sap/num1.jpg" class="gallery-item wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.2s">
 					<span class="gallery-border"></span>
-					<img src="images/sap/num1.jpg" alt="Image 1">
+					<img style="border-radius:10px" src="images/sap/num1.jpg" alt="Image 1">
 				</a>
 				<a href="images/sap/num2.jpg"  class="gallery-item wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.3s">
 					<span class="gallery-border"></span>
-					<img src="images/sap/num2.jpg"  alt="Image 2">
+					<img style="border-radius:10px" src="images/sap/num2.jpg"  alt="Image 2">
 				</a>
 				<a href="images/sap/num3.jpg" class="gallery-item wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.4s"> 
 					<span class="gallery-border"></span>
-					<img src="images/sap/num3.jpg" alt="Image 3">
+					<img style="border-radius:10px" src="images/sap/num3.jpg" alt="Image 3">
 				</a>
 				<a href="images/sap/num4.jpg" class="gallery-item wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.5s">
 					<span class="gallery-border"></span>
-					<img src="images/sap/num4.jpg" alt="Image 4">
+					<img style="border-radius:10px" src="images/sap/num4.jpg" alt="Image 4">
 				</a>
 				<a href="images/sap/num5.jpg" class="gallery-item wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.6s">
 					<span class="gallery-border"></span>
-					<img src="images/sap/num5.jpg" alt="Image 5">
+					<img style="border-radius:10px" src="images/sap/num5.jpg" alt="Image 5">
 				</a>
 				<a href="images/sap/num6.jpg" class="gallery-item wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.7s">
 					<span class="gallery-border"></span>
-					<img src="images/sap/num6.jpg" alt="Image 6">
+					<img style="border-radius:10px" src="images/sap/num6.jpg" alt="Image 6">
 				</a>
 
 				<a href="images/sap/num7.jpg" class="gallery-item" data-effect="mfp-zoom-in">
 					<span class="gallery-border"></span>
-					<img src="images/sap/num7.jpg" alt="Image 7">
+					<img style="border-radius:10px" src="images/sap/num7.jpg" alt="Image 7">
 				</a>
 				<a href="images/sap/num8.jpg" class="gallery-item" data-effect="mfp-zoom-in">
 					<span class="gallery-border"></span>
-					<img src="images/sap/num8.jpg" alt="Image 8">
+					<img style="border-radius:10px" src="images/sap/num8.jpg" alt="Image 8">
 				</a>
 			</div>
 
 			<div class="gallery-btn">
-				<a href="#" class="def-btn wow fadeInUp" data-wow-delay="0.2s">Show more</a>
+				<a style="border-radius: 10px;" href="#" class="def-btn wow fadeInUp" data-wow-delay="0.2s">Show more</a>
 			</div>
 			
 		</div>
@@ -495,57 +495,57 @@ Our team has a deep commitment to innovation and, above all, to paving the way f
 			<div class="gallery-wrap">
 				<a href="images/sap/ny (1).jpg" class="gallery-items wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.2s">
 					<span class="gallery-border"></span>
-					<img src="images/sap/ny (1).jpg" alt="Image 1">
+					<img style="border-radius:10px" src="images/sap/ny (1).jpg" alt="Image 1">
 				</a>
 				<a href="images/sap/ny (2).jpg"  class="gallery-items wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.3s">
 					<span class="gallery-border"></span>
-					<img src="images/sap/ny (2).jpg"  alt="Image 2">
+					<img style="border-radius:10px" src="images/sap/ny (2).jpg"  alt="Image 2">
 				</a>
 				<a href="images/sap/ny (3).jpg" class="gallery-items wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.4s"> 
 					<span class="gallery-border"></span>
-					<img src="images/sap/ny (3).jpg" alt="Image 3">
+					<img style="border-radius:10px" src="images/sap/ny (3).jpg" alt="Image 3">
 				</a>
 				<a href="images/sap/ny (4).jpg" class="gallery-items wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.5s">
 					<span class="gallery-border"></span>
-					<img src="images/sap/ny (4).jpg" alt="Image 4">
+					<img style="border-radius:10px" src="images/sap/ny (4).jpg" alt="Image 4">
 				</a>
 				<a href="images/sap/ny (5).jpg" class="gallery-items wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.6s">
 					<span class="gallery-border"></span>
-					<img src="images/sap/ny (5).jpg" alt="Image 5">
+					<img style="border-radius:10px" src="images/sap/ny (5).jpg" alt="Image 5">
 				</a>
 				<a href="images/sap/ny (6).jpg" class="gallery-items wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.7s">
 					<span class="gallery-border"></span>
-					<img src="images/sap/ny (6).jpg" alt="Image 6">
+					<img style="border-radius:10px" src="images/sap/ny (6).jpg" alt="Image 6">
 				</a>
 
 				<a href="images/sap/ny (7).jpg" class="gallery-items" data-effect="mfp-zoom-in">
 					<span class="gallery-border"></span>
-					<img src="images/sap/ny (7).jpg" alt="Image 7">
+					<img style="border-radius:10px" src="images/sap/ny (7).jpg" alt="Image 7">
 				</a>
 				<a href="images/sap/ny (8).jpg" class="gallery-items" data-effect="mfp-zoom-in">
 					<span class="gallery-border"></span>
-					<img src="images/sap/ny (8).jpg" alt="Image 8">
+					<img style="border-radius:10px" src="images/sap/ny (8).jpg" alt="Image 8">
 				</a>
 				<a href="images/sap/ny (9).jpg" class="gallery-items" data-effect="mfp-zoom-in"> 
 					<span class="gallery-border"></span>
-					<img src="images/sap/ny (9).jpg" alt="Image 9">
+					<img style="border-radius:10px" src="images/sap/ny (9).jpg" alt="Image 9">
 				</a>
 				<a href="images/sap/ny (10).jpg" class="gallery-items" data-effect="mfp-zoom-in">
 					<span class="gallery-border"></span>
-					<img src="images/sap/ny (10).jpg" alt="Image 10">
+					<img style="border-radius:10px" src="images/sap/ny (10).jpg" alt="Image 10">
 				</a>
 				<a href="images/sap/ny (11).jpg" class="gallery-items" data-effect="mfp-zoom-in">
 					<span class="gallery-border"></span>
-					<img src="images/sap/ny (11).jpg" alt="Image 11">
+					<img style="border-radius:10px" src="images/sap/ny (11).jpg" alt="Image 11">
 				</a>
 				<a href="images/sap/ny (12).jpg" class="gallery-items" data-effect="mfp-zoom-in">
 					<span class="gallery-border"></span>
-					<img src="images/sap/ny (12).jpg" alt="Image 12">
+					<img style="border-radius:10px" src="images/sap/ny (12).jpg" alt="Image 12">
 				</a>
 			</div>
 
-			<div class="gallery-btns" style="text-align: center;margin-top: 44px;">
-				<a href="#" class="def-btn wow fadeInUp" data-wow-delay="0.2s">Show more</a>
+			<div class="gallery-btns" style="text-align: center;margin-top: 44px">
+				<a style="border-radius: 10px;" href="#" class="def-btn wow fadeInUp" data-wow-delay="0.2s">Show more</a>
 			</div>
 
 		</div>
@@ -565,7 +565,7 @@ Our team has a deep commitment to innovation and, above all, to paving the way f
 				</div>
 	
 				<div class="about-right">
-					<img src="images/sap/logomun.png" alt="logomun" class="wow fadeIn" data-wow-delay="0.5s">
+					<img  src="images/sap/logomun.png" alt="logomun" class="wow fadeIn" data-wow-delay="0.5s">
 				</div>
 			</div>
 
@@ -585,7 +585,7 @@ Our team has a deep commitment to innovation and, above all, to paving the way f
 				<div class="swiper-slide">
 						<div class="reviews-item wow fadeInUp" data-wow-delay="0.3s">
 							<div class="reviews-thumb">
-								<img src="images/ariana.jpg" alt="ariana">
+								<img  src="images/ariana.jpg" alt="ariana">
 							</div>
 							
 							<div class="reviews-body">
