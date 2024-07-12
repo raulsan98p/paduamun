@@ -141,6 +141,7 @@
 		<!-- Header mobile END -->
 
 	</header>
+
 	<section>
 		<!-- CARRUSEL SECTION INICIO -->
 		<div class="swiper banner-swiper">
@@ -281,37 +282,12 @@ Our team has a deep commitment to innovation and, above all, to paving the way f
 								<img src="images/sap/co6.png" alt="comite2"><br><br>
 								<h2>PRENSA</h2>
 							</div>
-
-							<div class="product wow fadeIn" data-name="p-7" data-wow-delay="0.8s">
-								<img src="images/sap/co7.png" alt="comite2"><br><br>
-								<h2>UNICEF</h2>
-							</div>
-
-							<div class="product wow fadeIn" data-name="p-8" data-wow-delay="0.9s">
-								<img src="images/sap/co8.png" alt="comite2"><br><br>
-								<h2>ECOFIN</h2>
-							</div>
-
-							<div class="product wow fadeIn" data-name="p-9" data-wow-delay="0.10s">
-								<img src="images/sap/co9.png" alt="comite2"><br><br>
-								<h2>CDH</h2>
-							</div>
-
-							<div class="product wow fadeIn" data-name="p-10" data-wow-delay="0.11s">
-								<img src="images/sap/co10.png" alt="comite2"><br><br>
-								<h2>ECOSOC</h2>
-							</div>
-
-							<div class="product wow fadeIn" data-name="p-11" data-wow-delay="0.12s">
-								<img src="images/sap/co11.png" alt="comite2"><br><br>
-								<h2>PNUMA</h2>
-							</div>
 				</div>
 </div>
 							
 						<!-- MODAL INICIO -->
 							<div class="products-preview">
-							<div class="preview" data-target="p-1" >
+							<div class="preview" data-target="p-1" style="border-top-left-radius: 50px !important" >
 								<i class="fa fa-times" style="font-size: 20px"></i>
 								<img src="images/press.jpg" alt="press"  ><br>
 								<strong><h3>PRESS</h3></strong>
@@ -320,7 +296,7 @@ Our team has a deep commitment to innovation and, above all, to paving the way f
 								<p style="text-align: center">El Comité de Prensa es un grupo de delegados que actúan como periodistas representando a diversas agencias de noticias y serán responsables de informar sobre los acontecimientos ocurridos en la conferencia y los respectivos debates. Además, los delegados de prensa tienen la tarea vital de crear actualizaciones, que les permiten analizar dinámicas geopolíticas complejas e informar al mundo sobre los acontecimientos que se desarrollan. Además, tienen la oportunidad de abordar nuevos ángulos de la historia haciendo preguntas incisivas en conferencias de prensa y entrevistas.</p>
 							</div>
 
-							<div class="preview" data-target="p-2">
+							<div class="preview" data-target="p-2" style="border-top-left-radius: 50px !important">
 								<i class="fa fa-times" style="font-size: 20px"></i>
 								<img src="images/seco.jpg" alt="security council" ><br>
 								<h3>SECURITY COUNCIL</h3>
@@ -330,7 +306,7 @@ Our team has a deep commitment to innovation and, above all, to paving the way f
 								<p style="text-align: center">Authoritarianism is the oldest and most common form of governance in human history and is considered the norm for most countries up until the modern age. Today, many political scientists and NGOs have warned that authoritarianism is on the rise again, with the highest number of autocratic governments seen since the 1990s. With this resurgence comes new threats of human rights violations (up to and including genocide), information controls, and crackdowns on speech. The Security Council thus must create a policy on how to protect the principles of democratic rule from this growing and concerning trend.</p>
 							</div>
 
-							<div class="preview" data-target="p-3">
+							<div class="preview" data-target="p-3" style="border-top-left-radius: 50px !important">
 								<i class="fa fa-times" style="font-size: 20px"></i>
 								<img src="images/hcr.jpg" alt="hcr" ><br>
 								<h3>United Nations High Commissioner for Refugees</h3>
@@ -351,7 +327,7 @@ Our team has a deep commitment to innovation and, above all, to paving the way f
 								<p style="text-align: center">Ahsoka Tano, former Jedi Padawan, faced allegations of sedition by the Jedi Order and Republic. Exonerated following thorough investigation led by Jedi Knight Anakin Skywalker, uncovering Barriss Offee as the true perpetrator. Declined reinstatement into the Jedi Order, choosing to pursue an independent path.</p>
 							</div>
 
-							<div class="preview" data-target="p-5">
+							<div class="preview" data-target="p-5" style="border-top-left-radius: 50px !important">
 								<i class="fa fa-times" style="font-size: 20px"></i>
 								<img src="images/doc.jpg" alt="unodc" ><br>
 								<h3>United Nations Office on Drugs and Crime</h3>
@@ -361,7 +337,7 @@ Our team has a deep commitment to innovation and, above all, to paving the way f
 								<p style="text-align: center">Drug trafficking, narcotics trafficking or simply drug trafficking, is the trade in illegal addictive drugs, mainly cocaine. The main economic basis of this phenomenon is this substance, since its purchase and sale finances most of a phenomenon that encompasses the manufacture, distribution, sale, market control and recycling of many narcotics. A UN study indicates that global substance trafficking generated approximately 0.3216 billion dollars in 2003, representing 0.83% of the global gross domestic product of that year.</p>
 							</div>
 
-							<div class="preview" data-target="p-6">
+							<div class="preview" data-target="p-6" style="border-top-left-radius: 50px !important">
 								<i class="fa fa-times" style="font-size: 20px"></i>
 								<img src="images/prensa.jpg" alt="prensa" ><br>
 								<h3>PRENSA</h3>
@@ -369,60 +345,6 @@ Our team has a deep commitment to innovation and, above all, to paving the way f
 								<span><strong>Moderatora: </strong>Mackenzye Díaz</span>
 								<p style="text-align: center">El Comité de Prensa es un grupo de delegados que actúan como periodistas representando a diversas agencias de noticias y serán responsables de informar sobre los acontecimientos ocurridos en la conferencia y los respectivos debates. Además, los delegados de prensa tienen la tarea vital de crear actualizaciones, que les permiten analizar dinámicas geopolíticas complejas e informar al mundo sobre los acontecimientos que se desarrollan. Además, tienen la oportunidad de abordar nuevos ángulos de la historia haciendo preguntas incisivas en conferencias de prensa y entrevistas.</p>
 							</div>
-
-							<div class="preview" data-target="p-7">
-								<i class="fa fa-times" style="font-size: 20px"></i>
-								<img src="images/unicef.jpg" alt="unicef" ><br>
-								<h3>Fondo de las Naciones Unidas para la Infancia</h3>
-								<h4><strong>Topic: </strong>Reclutamiento de niños en zonas de conflicto</h4>
-								<span><strong>Directora: </strong>Virginia Cáceres</span><br>
-								<span><strong>Moderatora: </strong>Eliana Díaz</span>
-								<p style="text-align: center">En aproximadamente 17 países alrededor del mundo, decenas de millones de niños y niñas se encuentran luchando en guerras de adultos. Algunos son utilizados como soldados y participan directamente en hostilidades mientras que otros son utilizados para cumplir funciones de tipo logístico (cocineros, porteadores, mensajeros o espías), o para abusar sexualmente de ellos. Aunque la penosa situación de los niños en las guerras a veces parezca inevitable, no lo es, habiendo muchos motivos para seguir esperanzados.</p>
-							</div>
-
-							<div class="preview" data-target="p-8">
-								<i class="fa fa-times" style="font-size: 20px"></i>
-								<img src="images/ecofin.jpg" alt="ecofin" ><br>
-								<h3>Consejo de Asuntos Económicos y Financieros</h3>
-								<h4><strong>Topic: </strong>Conflicto comercial entre Estados Unidos y China</h4>
-								<span><strong>Director: </strong>Hans López</span><br>
-								<span><strong>Moderatora: </strong>Pamela Guevara</span>
-								<p style="text-align: center">Los Estados Unidos y China poseen las economías más grandes del mundo; Estados Unidos tiene el PBI nominal más alto, al igual que China, pero esta en términos de paridad de poder adquisitivo.
-															Fue un marzo de 2018, el anuncio de las intenciones del expresidente de los Estados Unidos, de imponer aranceles de 50 000 millones de dólares a los productos chinos, bajo el artículo 301 de la Ley de Comercio de 1974, argumentando un historial de prácticas desleales de comercio. Siendo lo más interesante, el hecho de que este conflicto aún sigua en curso.</p>
-							</div>
-
-							<div class="preview" data-target="p-9">
-								<i class="fa fa-times" style="font-size: 20px"></i>
-								<img src="images/cdh.jpg" alt="cdh" ><br>
-								<h3> Comité de Derechos Humanos</h3>
-								<h4><strong>Topic: </strong>Trata de Personas</h4>
-								<span><strong>Director: </strong>Marco Tuesta</span><br>
-								<span><strong>Moderatora: </strong>Fayruz Chamorro</span>
-								<p style="text-align: center">La trata de personas es un problema mundial y uno de los delitos más vergonzosos que existen. En este los tratantes engañan a mujeres, hombres y niños de todos los rincones del planeta y los someten diariamente a situaciones de explotación. Si bien la forma más conocida de trata de personas es la explotación sexual, cientos de miles de víctimas también son objeto de trata con fines de trabajo forzoso, servidumbre doméstica, mendicidad infantil o extracción de órganos.</p>
-							</div>
-
-							<div class="preview" data-target="p-10">
-								<i class="fa fa-times" style="font-size: 20px"></i>
-								<img src="images/ecosoc.jpg" alt="ecosoc" ><br>
-								<h3> Consejo Económico y Social de las Naciones Unidas</h3>
-								<h4><strong>Topic: </strong>Corrupción corporativa en la política y la economía global</h4>
-								<span><strong>Directora: </strong>Gwendoline Enrriquez</span><br>
-								<span><strong>Moderatora: </strong>Daniela Santos</span>
-								<p style="text-align: center">Analistas políticos y económicos siguen preguntándose por qué unos países se desarrollan más que otros; por qué unos logran salir de la trampa de la pobreza y, por el contrario, otros retroceden o se han estancado en la miseria. Entre las múltiples causas posibles, hay un factor que es el denominador común a estas preguntas: la corrupción.
-															La corrupción afecta al crecimiento económico de los países, a su competitividad y está estrechamente ligados a la desigualdad en el reparto de la riqueza.</p>
-							</div>
-
-							<div class="preview" data-target="p-11">
-								<i class="fa fa-times" style="font-size: 20px"></i>
-								<img src="images/numa.jpg" alt="numa" ><br>
-								<h3>Programa de las Naciones Unidas para el Medio Ambiente</h3>
-								<h4><strong>Topic: </strong>Tráfico transfronterizo de residuos</h4>
-								<span><strong>Directora: </strong>Mia Quintanilla</span><br>
-								<span><strong>Moderatora: </strong>Diana Valdivieso</span>
-								<p style="text-align: center">Se denomina Movimiento Transfronterizo, a la importación, exportación y tránsito de residuos peligrosos con fines de tratamiento o disposición final. Aquellos materiales, sean sólidos, pastosos, líquidos o gaseosos contenidos en recipientes que, siendo el resultado de un proceso de producción, transformación, utilización o consumo, su productor destine al abandono y contengan sustancias y materias que representen un riesgo para la salud humana, recursos naturales y medio ambiente.</p>
-							</div>
-
-
 			</div>
 		
 	</section>
