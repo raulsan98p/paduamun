@@ -147,18 +147,27 @@
 		<div class="swiper banner-swiper">
 			
 			<div class="swiper-wrapper">
+				<div class="swiper-slide" style="background-image: url(images/team1.jpg)">
+					<div class="banner-content">
+						<div class="banner-subtitle wow fadeIn " data-wow-delay="0.1s"><strong style="background: radial-gradient(circle, rgba(63,218,251,1) 0%, rgba(3,170,19,1) 100%); border-radius:5px">San Antonio de Padua</strong></div>
+						<h2 class="banner-title wow fadeIn" data-wow-delay="0.2s"><strong>Making leaders</strong></h2>
+					</div>
+				</div>
+
 				<div class="swiper-slide" style="background-image: url(images/d1.JPG)">
 					<div class="banner-content">
 						<div class="banner-subtitle wow fadeIn " data-wow-delay="0.1s"><strong style="background: radial-gradient(circle, rgba(63,218,251,1) 0%, rgba(3,170,19,1) 100%); border-radius:5px">San Antonio de Padua</strong></div>
 						<h2 class="banner-title wow fadeIn" data-wow-delay="0.2s"><strong>Making leaders</strong></h2>
 					</div>
 				</div>
+
 				<div class="swiper-slide" style="background-image: url(images/d2.JPG)">
 					<div class="banner-content">
 						<div class="banner-subtitle wow fadeIn"><strong style="background: radial-gradient(circle, rgba(63,218,251,1) 0%, rgba(3,170,19,1) 100%); border-radius:5px">San Antonio de Padua</strong></div>
 						<h2 class="banner-title"><strong>We enjoy working together</strong></h2>
 					</div>
 				</div>
+
 				<div class="swiper-slide" style="background-image: url(images/d3.JPG)">
 					<div class="banner-content">
 						<div class="banner-subtitle"><strong style="background: radial-gradient(circle, rgba(63,218,251,1) 0%, rgba(3,170,19,1) 100%); border-radius:5px">San Antonio de Padua</strong></div>
@@ -184,17 +193,17 @@
 
 			<div class="about-row">
 				<div class="about-left">
-					<h2 class="def-title wow fadeInLeft" data-wow-delay="0.2s">About this team</h2>
+					<h2 class="def-title wow fadeInLeft" data-wow-delay="0.2s">About us</h2>
 					<div align="justify" class="def-desc wow fadeInLeft" data-wow-delay="0.3s">
 						<strong>San Antonio de Padua Model United Nations</strong> is an educational simulation in which students represent leaders or member countries of the United Nations and, through a debate on current international events, fictitious decisions are made between all countries. involved. Our project was born in 2017 and the students have participated in it in an active, innovative and creative way. This is because throughout this process they develop different skills such as leadership, public speaking, negotiation, diplomacy, teamwork and policy development. 
-Unifyed in the spirit of the United Nations, PaduaMUN seeks to foster a collaborative space for open and diplomatic dialogue on a variety of complex and current issues. Delegates are asked to develop their criticality about the world around them in new and ambitious ways by answering the questions: What role do international organizations such as the United Nations play in today's global scenario? What achievements can these international organizations achieve in promoting world peace and development? How can we find a balance between a country's regional interests and the responsibilities it assumes towards the international community? What actions can young people take to generate positive changes in their communities and globally?
-PaduaMUN 2024 seeks to provide them with the best space in school life to debate and learn about our culture and customs of the Peruvian jungle. This year, 2024, is our first external Model United Nations conference, with the participation of other schools, which fills us with great excitement and expectation. 
-Our team has a deep commitment to innovation and, above all, to paving the way for the young leaders of the future to express their ideas and commitment to the world and not only within our Peru.
+						Unifyed in the spirit of the United Nations, PaduaMUN seeks to foster a collaborative space for open and diplomatic dialogue on a variety of complex and current issues. Delegates are asked to develop their criticality about the world around them in new and ambitious ways by answering the questions: What role do international organizations such as the United Nations play in today's global scenario? What achievements can these international organizations achieve in promoting world peace and development? How can we find a balance between a country's regional interests and the responsibilities it assumes towards the international community? What actions can young people take to generate positive changes in their communities and globally?
+						PaduaMUN 2024 seeks to provide them with the best space in school life to debate and learn about our culture and customs of the Peruvian jungle. This year, 2024, is our first external Model United Nations conference, with the participation of other schools, which fills us with great excitement and expectation. 
+						Our team has a deep commitment to innovation and, above all, to paving the way for the young leaders of the future to express their ideas and commitment to the world and not only within our Peru.
 					</div>
 				</div>
 	
 				<div class="about-right">
-					<img style="border-radius: 10px" src="images/team1.jpg" alt="logomun" class="wow fadeIn" data-wow-delay="0.5s">
+					<img  src="images/sap/logomun.png" alt="logomun" class="wow fadeIn" data-wow-delay="0.5s">
 				</div>
 			</div>
 
@@ -344,6 +353,8 @@ Our team has a deep commitment to innovation and, above all, to paving the way f
 													<i class="fa fa-file-pdf-o" ></i> <a id="fondoa" href="https://www.paduamun.pe/public/guias/Study Guide DISEC-OFFICIAL.pdf" target="_blank"><strong>DISEC</strong></a>
 													<i class="fa fa-file-pdf-o" ></i> <a id="fondoa" href="https://www.paduamun.pe/public/guias/Study Guide NATO-OFFICIAL.pdf" target="_blank"><strong>NATO</strong></a>
 													<i class="fa fa-file-pdf-o" ></i> <a id="fondoa" href="https://www.paduamun.pe/public/guias/Study Guide UNICEF-OFFICIAL.pdf" target="_blank"><strong>UNICEF</strong></a>
+													<i class="fa fa-file-pdf-o" ></i> <a id="fondoa" href="https://www.paduamun.pe/public/guias/Study Guide TPA-OFFICIAL.pdf" target="_blank"><strong>TPA</strong></a>
+													<i class="fa fa-file-pdf-o" ></i> <a id="fondoa" href="https://www.paduamun.pe/public/guias/Guia de Estudio OEA.pdf" target="_blank"><strong>OEA</strong></a>
 												</ul>				
 							</div>
 			</div>
