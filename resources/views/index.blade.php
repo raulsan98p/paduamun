@@ -362,12 +362,36 @@
 	</section>
 
 <!-- COMITÉS FIN -->
+<section class="s-gallery" id="s-gallery">
+	<div class="container">
+		<h1 class="center-title wow fadeIn" data-wow-delay="0.1s">GALLERY</h1>
+			<h3 class="center-title wow fadeIn" data-wow-delay="0.1s">Reina del Mundo - RDMUN</h3>
 
-<!-- AQUI COMIENZA LA GALERÍA 1 -->
+			<div  class="gallery-wrap">
+				<a href="images/rdm1.jpg" class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.2s">
+					<span class="gallery-border"></span>
+					<img style="border-radius:10px"style="border-radius:10px" src="images/rdm1.jpg" alt="Image 1">
+				</a>
+				<a href="images/rdm2.jpg"  class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.3s">
+					<span class="gallery-border"></span>
+					<img style="border-radius:10px"style="border-radius:10px" src="images/rdm2.jpg"  alt="Image 2">
+				</a>
+				<a href="images/rdm3.jpg"  class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.3s">
+					<span class="gallery-border"></span>
+					<img style="border-radius:10px"style="border-radius:10px" src="images/rdm3.jpg"  alt="Image 3">
+				</a>
+				<a href="images/rdm4.jpg"  class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.4s">
+					<span class="gallery-border"></span>
+					<img style="border-radius:10px"style="border-radius:10px" src="images/rdm4.jpg"  alt="Image 4">
+				</a>
+			</div>
+	</div>
+</section>
+
+<!-- AQUI COMIENZA LA GALERÍA 2 -->
 <section class="s-gallery" id="s-gallery">
 		<div class="container">
-		<h1 class="center-title wow fadeIn" data-wow-delay="0.1s">GALLERY</h1>
-			<h2 class="center-title wow fadeIn" data-wow-delay="0.1s">PADUAMUN INTERNO 2024</h2>
+			<h3 class="center-title wow fadeIn" data-wow-delay="0.1s">PADUAMUN INTERNO 2024</h3>
 
 			<div  class="gallery-wrap">
 				<a href="images/pmun1.jpg" class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.2s">
@@ -447,12 +471,12 @@
 
 		</div>
 	</section>
-<!-- AQUI TERMINA LA GALERÍA 1  -->
+<!-- AQUI TERMINA LA GALERÍA 2  -->
 
-<!-- AQUI COMIENZA LA GALERÍA 2  -->
+<!-- AQUI COMIENZA LA GALERÍA 3  -->
 <section class="s-gallery" id="s-gallery">
 		<div class="container">
-			<h2 class="center-title wow fadeIn" data-wow-delay="0.1s">NEWTONMUN - LIMA 2024</h2>
+			<h3 class="center-title wow fadeIn" data-wow-delay="0.1s">NEWTONMUN - LIMA 2024</h3>
 			<div class="gallery-wrap">
 				<a href="images/sap/num1.jpg" class="gallery-item wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.2s">
 					<span class="gallery-border"></span>
@@ -495,13 +519,13 @@
 			
 		</div>
 	</section>
-	<!-- AQUI TERMINA LA GALERÍA 2  -->
+	<!-- AQUI TERMINA LA GALERÍA 3  -->
 
 
-<!-- AQUI COMIENZA LA GALERÍA 3  -->
+<!-- AQUI COMIENZA LA GALERÍA 4  -->
 <section class="s-gallery" id="s-gallery">
-		<div class="container">
-			<h2 class="center-title wow fadeIn" data-wow-delay="0.1s">NHSMUN50 - New York, USA 2024</h2>
+	<div class="container">
+		<h3 class="center-title wow fadeIn" data-wow-delay="0.1s">NHSMUN50 - New York, USA 2024</h3>
 
 			<div class="gallery-wrap">
 				<a href="images/sap/ny (1).jpg" class="gallery-items wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.2s">
@@ -559,9 +583,9 @@
 				<a style="border-radius: 10px;" href="#" class="def-btn wow fadeInUp" data-wow-delay="0.2s">Show more</a>
 			</div>
 
-		</div>
-	</section>
-<!-- AQUI TERMINA LA GALERÍA 3  -->	
+	</div>
+</section>
+<!-- AQUI TERMINA LA GALERÍA 4  -->	
 
 <!-- AQUI EMPIEZA LA ONU  -->
 <section class="s-team" id="s-team">
