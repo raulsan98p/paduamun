@@ -1,0 +1,41 @@
+
+.contenido {
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    width: 90%;
+    border-radius: 8px;
+}
+
+.hidden {
+    display: none;
+}
+
+button1 {
+    background-color: #20cc05;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 12px;
+    margin-top: 10px;
+    transition: background-color 0.3s ease;
+}
+
+button1:hover {
+    background-color: #1fecfe;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .contenido {
+        padding: 15px;
+    }
+
+    button1 {
+        width: 100%;
+        font-size: 12px;
+    }
+}

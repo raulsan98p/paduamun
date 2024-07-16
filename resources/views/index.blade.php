@@ -13,6 +13,9 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="css/estilosmodal.css">
 	<link rel="stylesheet" href="css/stylo.css">
+	<link rel="stylesheet" href="css/stylo2.css">
+	<link rel="stylesheet" href="https://fonts.cdnfonts.com/css/usa-nation" >
+	<link href="https://fonts.cdnfonts.com/css/adlam-display" rel="stylesheet">
 	
 	
 	<title>PADUAMUN 2024</title>
@@ -440,15 +443,15 @@
 					<span class="gallery-border"></span>
 					<img style="border-radius:10px"style="border-radius:10px" src="images/pmun2.jpg"  alt="Image 2">
 				</a>
-				<a href="images/pmun4.jpg" class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.5s">
+				<a href="images/pmun4.jpg" class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.4s">
 					<span class="gallery-border"></span>
 					<img style="border-radius:10px"style="border-radius:10px" src="images/pmun4.jpg" alt="Image 4">
 				</a>
-				<a href="images/pmun5.jpg" class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.6s">
+				<a href="images/pmun5.jpg" class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.5s">
 					<span class="gallery-border"></span>
 					<img style="border-radius:10px"style="border-radius:10px" src="images/pmun5.jpg" alt="Image 5">
 				</a>
-				<a href="images/pmun6.jpg" class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.7s">
+				<a href="images/pmun6.jpg" class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.6s">
 					<span class="gallery-border"></span>
 					<img style="border-radius:10px" src="images/pmun6.jpg" alt="Image 6">
 				</a>
@@ -590,6 +593,24 @@
 					<span class="gallery-border"></span>
 					<img style="border-radius:10px" src="images/sap/ny (6).jpg" alt="Image 6">
 				</a>
+				<div class="video-container">
+					<video src="images/hilton1.mp4" controls autoplay loop></video>
+				</div>
+				<div class="video-container">
+					<video src="images/hilton2.mp4" controls autoplay loop></video>
+				</div>
+				<div class="video-container">
+					<video src="images/hilton3.mp4" controls autoplay loop></video>
+				</div>
+				<div class="video-container">
+					<video src="images/hilton4.mp4" controls autoplay loop></video>
+				</div>
+				<div class="video-container">
+					<video src="images/hilton5.mp4" controls autoplay loop></video>
+				</div>
+				<div class="video-container">
+					<video src="images/hilton6.mp4" controls autoplay loop></video>
+				</div>
 
 				<a href="images/sap/ny (7).jpg" class="gallery-items" data-effect="mfp-zoom-in">
 					<span class="gallery-border"></span>
@@ -615,8 +636,9 @@
 					<span class="gallery-border"></span>
 					<img style="border-radius:10px" src="images/sap/ny (12).jpg" alt="Image 12">
 				</a>
+				
 			</div>
-
+			
 			<div class="gallery-btns" style="text-align: center;margin-top: 44px">
 				<a style="border-radius: 10px;" href="#" class="def-btn wow fadeInUp" data-wow-delay="0.2s">Show more</a>
 			</div>
@@ -628,17 +650,87 @@
 <!-- AQUI EMPIEZA LA ONU  -->
 <section class="s-team" id="s-team">
 		<div class="container">
-		<h2 class="center-title wow fadeIn" data-wow-delay="0.1s">We visited the ONU Headquarters in NYC</h2>
+		<h2 class="center-title wow fadeIn" data-wow-delay="0.1s">We visited the ONU Headquarters in <span style="font-family:'USA Nation'">New York City</span></h2>
 			<div class="about-row">
 				<div class="about-left">
-					<h3 class="def-title wow fadeInLeft" data-wow-delay="0.2s">A wonderful experience</h3>
-					<div class="def-desc wow fadeInLeft" data-wow-delay="0.3s">
-						<center><strong>Paduamun2024</strong> is...
-					</div></center>
+					<h2 class="wow fadeInLeft" data-wow-delay="0.2s"><span style="font-family: 'ADLaM Display'">ONU: Una experiencia ineluctable</span></h2>
+						<h4 class="wow fadeInLeft" data-wow-delay="0.2s" style="font-style: italic; font-weight:300; font-size: 15px; " >By Edin Krunoslav</h4>
+					<div style="text-align:justify" class="def-desc wow fadeInLeft" data-wow-delay="0.3s">
+						<div class="contenido">
+							<p id="short-text">¿Cómo olvidar la visita a la ONU? ¿Cómo no recordar esa enigmática institución que rige los destinos del mundo? Aún la recuerdo con las mismas ansias que me abrasaban antes de conocerla; un lugar que solo, hasta entonces, había visto en fotos y escuchado en los claustros escolares. Mientras que iba en el taxi mi mente trataba de imaginar ¿cómo sería ese lugar?; sin embargo, la imaginación no abarcaba los límites de tan imponente estructura. Además de observar el enorme edificio de cristal, siempre recordaré con gran emoción cuando vi la bandera del Perú ondease por los aires frescos al igual que las otras en el pabellón de banderas; eso simplemente erizó mi piel. Antes de ingresar en la sede en sí, tuvimos una amena reunión en el Consulado General del Perú con el señor Víctor García Toma, representante permanente del Perú ante la ONU en la sede de Nueva York. Él nos recibió muy amablemente y entusiasmado nos explicó acerca del funcionamiento de las Naciones Unidas y el manejo de las relaciones diplomáticas de nuestro país. Además, él teína gran interés por saber cómo era la temática y el desarrollo de los MUN, explicándonos brevemente las diferencias que había entre cómo se manejaban los temas en la ONU y cómo era nuestra actividad. Por otro lado, el representante nos preguntó por nuestros temas a desarrollar en la conferencia y que le explicáramos, de manera concisa, lo que habíamos investigado; cuando me tocó hablarle sobre mi tema, él me comentó que le parecía muy interesante y  que no estaba nada alejado a la realidad con la agenda de las Naciones Unidas; a su vez me brindó una breve guía sobre lo que podría hacer durante los días de la conferencia, recomendándome siempre permanecer apegado a la postura y a la política de mi país con respecto al tema.</p>
+							<p id="more-text" class="hidden">Una vez terminada la reunión, un amable y carismático diplomático nos llevó a las oficinas de la ONU, hablándonos sobre su vida como representante de l Perú y la dinámica que conlleva esa profesión que, entre otras, era una vida de cambios, de emociones encontradas, de sueños consumados en el espacio de la política internacional, en fin un sino de para representar al país, con reuniones que parecen eternas,  entre las paredes que abrazan el recinto, arduas negociaciones e importantes relaciones a mantener, todo, en búsqueda de solucionar los problemas. Esto personalmente captó mi atención porque considero una fantástica manera de poder representar y contribuir a un verdadero cambio de mi país.Cuando intentamos ingresar en la ONU, pasamos por un riguroso control de seguridad, en donde sucedió un pequeño mal entendido porque la delegación de mi colegio estaba llevando bufandas de color verde en forma de representación y distinción de nuestra institución. Sin embargo, las personas que estaban en el control nos dieron una visión distinta a la nuestra y pensaban que eran un símbolo de protesta por la situación de Palestina y nos pidieron que lo guardáramos, a ello, accedimos sin que nos lo pidieran dos veces. Cuando ya estábamos adentro, pudimos detenernos y apreciar el lugar lleno de arquitectura moderna, combinada con la historia que está impregnada en sus muros, creando una atmósfera única. Desde el emblemático edificio de la Asamblea General hasta el Consejo de Seguridad, cada rincón cuenta una historia sobre el esfuerzo global por mantener la paz y la seguridad. Nuestra visita comienza con un recorrido con una guía excepcional el cual nos explicaba, desde una perspectiva reflexiva y profunda la misión y el funcionamiento de la ONU. Él, experto en temas internacionales, compartió anécdotas y datos interesantes sobre los diferentes países que forman parte de esta organización. Países que se han sumado a la lucha contra los problemas a afectan a la sociedad mundial.
+							Uno de los momentos más impactantes es la visita al Salón de la Asamblea General. Aquí se llevan a cabo debates cruciales donde se discuten temas que van desde el cambio climático hasta los derechos humanos. Un ambiente sin lugar a dudas imponente, que con tan solo verlo se puede percibir con gran respeto. Otro punto destacado es el Consejo de Seguridad, donde se toman decisiones vitales para la seguridad global. La sala, con su famosa mesa en forma de U, es el escenario de tensas negociaciones y resoluciones que pueden cambiar el rumbo de naciones enteras. Cada uno de mis compañeros pudimos sentir la importancia de cada decisión que se discute en este espacio. Además, la sede de la ONU también está plagado de arte y cultura. Las obras que adornan sus pasillos reflejan la rica diversidad de los países miembros. Desde mosaicos hasta esculturas, cada pieza es un testimonio del compromiso de la organización con la promoción de la paz y la cooperación.
+							La visita a la ONU fue una experiencia inolvidable que superó todas mis expectativas. Desde el primer vistazo al imponente edificio hasta la profunda reunión con el Representante Permanente del Perú, cada momento reafirmó mi interés por la política internacional y la diplomacia. La importancia de las decisiones tomadas en espacios como el Salón de la Asamblea General y el Consejo de Seguridad se hizo palpable, así como el compromiso global por la paz y la cooperación. Esta experiencia no solo enriqueció mi entendimiento sobre el funcionamiento de la ONU, sino que también fortaleció mi deseo de contribuir a un cambio positivo para mi país en el futuro.</p>
+							<button1 onclick="toggleText()" id="toggle-button">Read more...</button1>
+						</div>
+					</div>
 				</div>
 	
 				<div class="about-right">
-					<img  src="images/sap/logomun.png" alt="logomun" class="wow fadeIn" data-wow-delay="0.5s">
+						<section class="s-gallery" id="s-gallery">
+							<div class="container">
+									<h2 class=" wow fadeIn" data-wow-delay="0.1s">Here some photos and videos!</h2>
+									<div  class="gallery-wrap">
+										<a href="images/onu1.jpg" class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.2s">
+											<span class="gallery-border"></span>
+											<img style="border-radius:5px" src="images/onu1.jpg" alt="Image 1">
+										</a>
+										<a href="images/onu2.jpg"  class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.3s">
+											<span class="gallery-border"></span>
+											<img style="border-radius:5px" src="images/onu2.jpg"  alt="Image 2">
+										</a>
+										<a href="images/onu3.jpg"  class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.3s">
+											<span class="gallery-border"></span>
+											<img style="border-radius:5px" src="images/onu3.jpg"  alt="Image 3">
+										</a>
+										<a href="images/onu4.jpg"  class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.4s">
+											<span class="gallery-border"></span>
+											<img style="border-radius:5px" src="images/onu4.jpg"  alt="Image 4">
+										</a>
+										<a href="images/onu5.jpg"  class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.5s">
+											<span class="gallery-border"></span>
+											<img style="border-radius:5px" src="images/onu5.jpg"  alt="Image 5">
+										</a>
+										<a href="images/onu6.jpg"  class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.4s">
+											<span class="gallery-border"></span>
+											<img style="border-radius:5px" src="images/onu6.jpg"  alt="Image 6"> <!-- HASTA AQUI ES VISIBLE LAS FOTOS-->
+										</a>
+										<a href="images/onu7.jpg"  class="wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.4s">
+											<span class="gallery-border"></span>
+											<img style="border-radius:5px" src="images/onu7.jpg"  alt="Image 7">
+										</a>
+										<a href="images/onu8.jpg"  class=" wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.4s">
+											<span class="gallery-border"></span>
+											<img style="border-radius:5px" src="images/onu8.jpg"  alt="Image 8">
+										</a>
+										<a href="images/onu9.jpg"  class=" wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.4s">
+											<span class="gallery-border"></span>
+											<img style="border-radius:5px" src="images/onu9.jpg"  alt="Image 9">
+										</a>
+										<div class="video-container">
+											<video src="images/onu10.mp4" controls autoplay loop></video>
+										</div>
+										<div class="video-container">
+											<video src="images/onu11.mp4" controls autoplay loop></video>
+										</div>
+										<div class="video-container">
+											<video src="images/onu12.mp4" controls autoplay loop></video>
+										</div>
+										<div class="video-container">
+											<video src="images/onu13.mp4" controls autoplay loop></video>
+										</div>
+										<div class="video-container">
+											<video src="images/onu14.mp4" controls autoplay loop></video>
+										</div>
+										<div class="video-container">
+											<video src="images/onu15.mp4" controls autoplay loop></video>
+										</div>
+										<div class="video-container">
+											<video src="images/onu16.mp4" controls autoplay loop></video>
+										</div>
+									</div>
+							</div>
+						</section>
 				</div>
 			</div>
 
@@ -866,6 +958,7 @@
 	<script src="js/wow.min.js"></script>
 	<script src="js/script.js"></script>
 	<script src="js/jsmodal.js"></script>
+	<script src="js/scripts.js"></script>
 	
 
 	<!-- SCRIPT PARA ENVIAR MENSAJE Y ALERTAS  -->
