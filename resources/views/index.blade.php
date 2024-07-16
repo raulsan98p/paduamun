@@ -362,7 +362,9 @@
 	</section>
 
 <!-- COMITÉS FIN -->
-<section class="s-gallery" id="s-gallery">
+
+ <!-- AQUI COMIENZA LA GALERÍA Reina del mundo -->
+ <section class="s-gallery" id="s-gallery">
 	<div class="container">
 		<h1 class="center-title wow fadeIn" data-wow-delay="0.1s">GALLERY</h1>
 			<h3 class="center-title wow fadeIn" data-wow-delay="0.1s">Reina del Mundo - RDMUN</h3>
@@ -387,8 +389,44 @@
 			</div>
 	</div>
 </section>
+ <!-- AQUI termina LA GALERÍA Reina del mundo -->
 
-<!-- AQUI COMIENZA LA GALERÍA 2 -->
+ <!-- AQUI COMIENZA LA GALERÍA Reina del mundo -->
+<section class="s-gallery" id="s-gallery">
+	<div class="container">
+			<h3 class="center-title wow fadeIn" data-wow-delay="0.1s">Casuarinas MUN - CASMUN Lima</h3>
+
+			<div  class="gallery-wrap">
+				<a href="images/cas1.jpg" class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.2s">
+					<span class="gallery-border"></span>
+					<img style="border-radius:10px"style="border-radius:10px" src="images/cas1.jpg" alt="Image 1">
+				</a>
+				<a href="images/cas2.jpg"  class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.3s">
+					<span class="gallery-border"></span>
+					<img style="border-radius:10px"style="border-radius:10px" src="images/cas2.jpg"  alt="Image 2">
+				</a>
+				<a href="images/cas3.jpg"  class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.3s">
+					<span class="gallery-border"></span>
+					<img style="border-radius:10px"style="border-radius:10px" src="images/cas3.jpg"  alt="Image 3">
+				</a>
+				<a href="images/cas4.jpg"  class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.4s">
+					<span class="gallery-border"></span>
+					<img style="border-radius:10px"style="border-radius:10px" src="images/cas4.jpg"  alt="Image 4">
+				</a>
+				<a href="images/cas5.jpg"  class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.4s">
+					<span class="gallery-border"></span>
+					<img style="border-radius:10px"style="border-radius:10px" src="images/cas5.jpg"  alt="Image 5">
+				</a>
+				<a href="images/cas6.jpg"  class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.4s">
+					<span class="gallery-border"></span>
+					<img style="border-radius:10px"style="border-radius:10px" src="images/cas6.jpg"  alt="Image 6">
+				</a>
+			</div>
+	</div>
+</section>
+ <!-- AQUI termina LA GALERÍA Reina del mundo -->
+
+<!-- AQUI COMIENZA LA GALERÍA paduamun2024 -->
 <section class="s-gallery" id="s-gallery">
 		<div class="container">
 			<h3 class="center-title wow fadeIn" data-wow-delay="0.1s">PADUAMUN INTERNO 2024</h3>
@@ -471,9 +509,9 @@
 
 		</div>
 	</section>
-<!-- AQUI TERMINA LA GALERÍA 2  -->
+<!-- AQUI TERMINA LA GALERÍA paduamun2024  -->
 
-<!-- AQUI COMIENZA LA GALERÍA 3  -->
+<!-- AQUI COMIENZA LA GALERÍA newtonmun  -->
 <section class="s-gallery" id="s-gallery">
 		<div class="container">
 			<h3 class="center-title wow fadeIn" data-wow-delay="0.1s">NEWTONMUN - LIMA 2024</h3>
@@ -519,10 +557,10 @@
 			
 		</div>
 	</section>
-	<!-- AQUI TERMINA LA GALERÍA 3  -->
+	<!-- AQUI TERMINA LA GALERÍA newtonmun -->
 
 
-<!-- AQUI COMIENZA LA GALERÍA 4  -->
+<!-- AQUI COMIENZA LA GALERÍA ny -->
 <section class="s-gallery" id="s-gallery">
 	<div class="container">
 		<h3 class="center-title wow fadeIn" data-wow-delay="0.1s">NHSMUN50 - New York, USA 2024</h3>
@@ -585,7 +623,7 @@
 
 	</div>
 </section>
-<!-- AQUI TERMINA LA GALERÍA 4  -->	
+<!-- AQUI TERMINA LA GALERÍA ny  -->	
 
 <!-- AQUI EMPIEZA LA ONU  -->
 <section class="s-team" id="s-team">
