@@ -28,6 +28,22 @@ button1:hover {
     background-color: #1fecfe;
 }
 
+button2 {
+    background-color: #05c5cc;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 12px;
+    margin-top: 10px;
+    transition: background-color 0.3s ease;
+}
+
+button2:hover {
+    background-color: #40fe1f;
+}
+
 /* Responsive styles */
 @media (max-width: 768px) {
     .contenido {
