@@ -414,7 +414,7 @@
  <!-- AQUI COMIENZA LA GALERÍA Reina del mundo -->
  <section class="s-gallery">
 	<div class="container">
-			<h3 class="center-title wow fadeIn" data-wow-delay="0.1s">Reina del Mundo - RDMUN</h3>
+			<h3 class="center-title wow fadeIn" data-wow-delay="0.1s">Reina del Mundo MUN - RDMUN Lima</h3>
 
 			<div  class="gallery-wrap">
 				<a href="images/rdm1.jpg" class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.2s">
@@ -438,7 +438,53 @@
 </section>
  <!-- AQUI termina LA GALERÍA Reina del mundo -->
 
- <!-- AQUI COMIENZA LA GALERÍA Reina del mundo -->
+  <!-- AQUI COMIENZA LA GALERÍA raimondi -->
+<section class="s-gallery">
+	<div class="container">
+			<h3 class="center-title wow fadeIn" data-wow-delay="0.1s">Raimondi MUN - RAIMUN Lima</h3>
+			<div  class="gallery-wrap">
+				<a href="images/rai1.jpeg" class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.2s">
+					<span class="gallery-border"></span>
+					<img style="border-radius:10px"style="border-radius:10px" src="images/rai1.jpeg" alt="Image 1">
+				</a>
+				<a href="images/rai2.jpeg"  class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.3s">
+					<span class="gallery-border"></span>
+					<img style="border-radius:10px"style="border-radius:10px" src="images/rai2.jpeg"  alt="Image 2">
+				</a>
+				<a href="images/rai3.jpeg"  class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.3s">
+					<span class="gallery-border"></span>
+					<img style="border-radius:10px"style="border-radius:10px" src="images/rai3.jpeg"  alt="Image 3">
+				</a>
+				<a href="images/rai4.jpeg"  class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.4s">
+					<span class="gallery-border"></span>
+					<img style="border-radius:10px"style="border-radius:10px" src="images/rai4.jpeg"  alt="Image 4">
+				</a>
+				<a href="images/rai5.jpeg"  class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.4s">
+					<span class="gallery-border"></span>
+					<img style="border-radius:10px"style="border-radius:10px" src="images/rai5.jpeg"  alt="Image 5">
+				</a>
+				<a href="images/rai6.jpeg"  class="gallery-items3 wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.4s">
+					<span class="gallery-border"></span>
+					<img style="border-radius:10px"style="border-radius:10px" src="images/rai6.jpeg"  alt="Image 6">
+				</a>
+				<a href="images/rai7.jpeg"  class=" wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.4s">
+					<span class="gallery-border"></span>
+					<img style="border-radius:10px"style="border-radius:10px" src="images/rai7.jpeg"  alt="Image 6">
+				</a>
+				<a href="images/rai8.jpeg"  class=" wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.4s">
+					<span class="gallery-border"></span>
+					<img style="border-radius:10px"style="border-radius:10px" src="images/rai8.jpeg"  alt="Image 6">
+				</a>
+				<a href="images/rai9.jpeg"  class=" wow fadeIn" data-effect="mfp-zoom-in" data-wow-delay="0.4s">
+					<span class="gallery-border"></span>
+					<img style="border-radius:10px"style="border-radius:10px" src="images/rai9.jpeg"  alt="Image 6">
+				</a>
+			</div>
+	</div>
+</section>
+ <!-- AQUI termina LA GALERÍA raimondi-->
+
+ <!-- AQUI COMIENZA LA GALERÍA CASUARINAS -->
 <section class="s-gallery">
 	<div class="container">
 			<h3 class="center-title wow fadeIn" data-wow-delay="0.1s">Casuarinas MUN - CASMUN Lima</h3>
@@ -471,7 +517,7 @@
 			</div>
 	</div>
 </section>
- <!-- AQUI termina LA GALERÍA Reina del mundo -->
+ <!-- AQUI termina LA GALERÍA CASUARINAS -->
 
 <!-- AQUI COMIENZA LA GALERÍA paduamun2024 -->
 <section class="s-gallery">
