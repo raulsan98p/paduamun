@@ -44,3 +44,17 @@
 
   
 }
+
+#pasca{
+  border-radius: 10px !important;
+  height: 800px;
+}
+
+#s-secretary {
+  background-color: antiquewhite;
+  height: fit-content;
+}
+
+#letter{
+  font-family: cursive;
+}

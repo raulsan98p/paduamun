@@ -16,6 +16,8 @@
 	<link rel="stylesheet" href="css/stylo2.css">
 	<link rel="stylesheet" href="https://fonts.cdnfonts.com/css/usa-nation" >
 	<link href="https://fonts.cdnfonts.com/css/adlam-display" rel="stylesheet">
+                
+	
 	
 	
 	<title>PADUAMUN 2024</title>
@@ -98,6 +100,7 @@
 					<nav class="header-nav">
 						<ul>
 							<li><a class="anchor-link" href="#s-about">About us</a></li>
+							<li><a class="anchor-link" href="#s-secretary">Secretary General</a></li>
 							<li><a class="anchor-link" href="#s-services">Committees</a></li>
 							<li><a class="anchor-link" href="#s-gallery">Gallery</a></li>
 							<li><a class="anchor-link" href="#s-team">ONU</a></li>
@@ -115,6 +118,7 @@
 			<nav class="header-mobile-nav">
 				<ul>
 					<li><a class="anchor-link" href="#s-about">About us</a></li>
+					<li><a class="anchor-link" href="#s-secretary">Secretary General</a></li>
 					<li><a class="anchor-link" href="#s-services">Committees</a></li>
 					<li><a class="anchor-link" href="#s-gallery">Gallery</a></li>
 					<li><a class="anchor-link" href="#s-team">ONU</a></li>
@@ -191,6 +195,7 @@
 	</section>
 <!-- CARRUSEL SECTION FIN -->
 
+<!-- AQUÍ COMIENZA LA SECCIÓN ABOUT US-->
 	<section class="s-about" id="s-about">
 		<div class="container">
 
@@ -212,8 +217,35 @@
 
 		</div>
 	</section>
+<!-- AQUÍ TERMINA LA SECCIÓN ABOUT US-->
 
+<!-- AQUÍ EMPIEZA LA SECCIÓN SECRETARY GENERAL-->
+<section  class="s-about" id="s-secretary">
+		<div class="container">
+			<h2 class="def-title wow fadeInLeft" data-wow-delay="0.2s">Letter from the Secretary-General</h2>
+			<div class="about-row">
+				<div class="about-left">
+					<div align="justify" class="def-desc wow fadeInLeft" data-wow-delay="0.3s">
+						<p id="letter"><strong>San Antonio de Padua Model United Nations</strong> is an educational simulation in which students represent leaders or member countries of the United Nations and, through a debate on current international events, fictitious decisions are made between all countries. involved. Our project was born in 2017 and the students have participated in it in an active, innovative and creative way. This is because throughout this process they develop different skills such as leadership, public speaking, negotiation, diplomacy, teamwork and policy development. 
+						Unifyed in the spirit of the United Nations, PaduaMUN seeks to foster a collaborative space for open and diplomatic dialogue on a variety of complex and current issues. Delegates are asked to develop their criticality about the world around them in new and ambitious ways by answering the questions: What role do international organizations such as the United Nations play in today's global scenario? What achievements can these international organizations achieve in promoting world peace and development? How can we find a balance between a country's regional interests and the responsibilities it assumes towards the international community? What actions can young people take to generate positive changes in their communities and globally?
+						PaduaMUN 2024 seeks to provide them with the best space in school life to debate and learn about our culture and customs of the Peruvian jungle. This year, 2024, is our first external Model United Nations conference, with the participation of other schools, which fills us with great excitement and expectation. 
+						Our team has a deep commitment to innovation and, above all, to paving the way for the young leaders of the future to express their ideas and commitment to the world and not only within our Peru.
+						</p>
+						<div>
+							<img  align="right" height="150px" width="250px" src="images/firma.png" alt="firma" class="wow fadeIn" data-wow-delay="0.5s">
+						</div>
+					</div>
+				</div>
+									
+				<div class="about-right">
+					<img id="pasca" src="images/secre.JPG" alt="logomun" class="wow fadeIn" data-wow-delay="0.5s">
+				</div>
+			</div>
+		</div>
+	</section>
+<!-- AQUÍ TERMINA LA SECCIÓN SECRETARY GENERAL->
 
+<!-- AQUÍ COMIENZA LA SECCIÓN NUMBERS-->
 	<section class="s-numbers">
 		<div class="container">
 			<div class="numbers-row num-scroll">
@@ -257,6 +289,8 @@
 			</div>
 		</div>
 	</section>
+
+<!-- AQUÍ TERMINA LA SECCIÓN NUMBERS-->
 
 <!-- CCOMITÉS INICIO -->
 <section class="s-services" id="s-services">
