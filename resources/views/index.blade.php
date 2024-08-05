@@ -50,7 +50,7 @@
 			<div class="container">
 				<div class="header-row">
 
-					<!-- Header top mobile START -->
+<!-- Header top mobile START -->
 					<div class="header-mobile-logo">
 						<a href="#">
 							<img src="images/sap/header-logo.png" alt="Construction">
@@ -61,9 +61,9 @@
 						<span></span>
 						<span></span>
 					</div>
-					<!-- Header top mobile END -->
+<!-- Header top mobile END -->
 
-                    <!-- AQUI COMIENZA EL NAV BAR PRINCIPAL  -->
+<!-- AQUI COMIENZA EL NAV BAR PRINCIPAL  -->
 					<div class="header-desc"><strong>#paduamun2024</strong></div>
 					<div class="header-right">
 						<div class="header-info">
@@ -87,7 +87,7 @@
 				</div>
 			</div>
 		</div>
-         <!-- AQUI COMIENZA EL NAV FLOTANTE  -->
+<!-- AQUI COMIENZA EL NAV FLOTANTE  -->
 		<div class="header-bottom">
 			<div class="container">
 				<div class="header-bottom-row">
@@ -111,9 +111,9 @@
 				</div>
 			</div>
 		</div>
-                            <!-- AQUI TERMINA EL NAVBAR PRINCIPAL  -->
+<!-- AQUI TERMINA EL NAVBAR PRINCIPAL  -->
 
-		<!-- Header mobile START -->
+<!-- Header mobile START -->
 		<div class="header-mobile-wrap">
 			<nav class="header-mobile-nav">
 				<ul>
@@ -145,12 +145,11 @@
 					</a>
 			</div>
 		</div>
-		<!-- Header mobile END -->
-
+<!-- Header mobile END -->
 	</header>
 
 	<section>
-		<!-- CARRUSEL SECTION INICIO -->
+<!-- CARRUSEL SECTION INICIO -->
 		<div class="swiper banner-swiper">
 			
 			<div class="swiper-wrapper">
@@ -241,9 +240,9 @@
 			</div>
 		</div>
 	</section>
-<!-- AQUÍ TERMINA LA SECCIÓN SECRETARY GENERAL->
+<!-- AQUÍ TERMINA LA SECCIÓN SECRETARY GENERAL -->
 
-<!-- AQUÍ COMIENZA LA SECCIÓN NUMBERS-->
+<!--AQUÍ COMIENZA LA SECCIÓN NUMBERS-->
 	<section class="s-numbers">
 		<div class="container">
 			<div class="numbers-row num-scroll">
