@@ -50,9 +50,14 @@
   height: 900px;
 }
 
+/* COLORES PARA LOS BACKGROUNDS DE CADA SECCIÓN */
 #s-secretary {
   background-color: antiquewhite;
   height: fit-content;
+}
+
+#s-about { 
+  background-color: rgb(255, 255, 255);
 }
 
 #letter{
