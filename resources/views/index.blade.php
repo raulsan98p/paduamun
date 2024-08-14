@@ -335,49 +335,49 @@
 							
 						<!-- MODAL INICIO -->
 							<div class="products-preview">
-							<div class="preview" data-target="p-1" style="border-bottom-right-radius: 50px !important" >
+							<div class="preview" data-target="p-1" style="border-bottom-right-radius: 50px !important; margin-top:100px" >
 								<i class="fa fa-times" style="font-size: 20px"></i>
 								<img style="border-radius:10px" src="images/disecdirector.jpg" alt="disec"><br>
 								<strong><h3>DISEC</h3></strong>
 								<p style="text-align: justify">El Comité de Prensa es un grupo de delegados que actúan como periodistas representando a diversas agencias de noticias y serán responsables de informar sobre los acontecimientos ocurridos en la conferencia y los respectivos debates. Además, los delegados de prensa tienen la tarea vital de crear actualizaciones, que les permiten analizar dinámicas geopolíticas complejas e informar al mundo sobre los acontecimientos que se desarrollan. Además, tienen la oportunidad de abordar nuevos ángulos de la historia haciendo preguntas incisivas en conferencias de prensa y entrevistas.</p>
 							</div>
 
-							<div class="preview" data-target="p-2" style="border-bottom-right-radius: 50px !important">
+							<div class="preview" data-target="p-2" style="border-bottom-right-radius: 50px !important; margin-top:100px">
 								<i class="fa fa-times" style="font-size: 20px"></i>
 								<img style="border-radius:10px" src="images/tpadirector.jpg" alt="tpa" ><br>
 								<h3>TPA</h3>
 								<p style="text-align: justify">Authoritarianism is the oldest and most common form of governance in human history and is considered the norm for most countries up until the modern age. Today, many political scientists and NGOs have warned that authoritarianism is on the rise again, with the highest number of autocratic governments seen since the 1990s. With this resurgence comes new threats of human rights violations (up to and including genocide), information controls, and crackdowns on speech. The Security Council thus must create a policy on how to protect the principles of democratic rule from this growing and concerning trend.</p>
 							</div>
 
-							<div class="preview" data-target="p-3" style="border-bottom-right-radius: 50px !important">
+							<div class="preview" data-target="p-3" style="border-bottom-right-radius: 50px !important; margin-top:100px">
 								<i class="fa fa-times" style="font-size: 20px"></i>
 								<img style="border-radius:10px" src="images/crisisdirector.jpg" alt="crisis" ><br>
 								<h3>CRISIS</h3>
 								<p style="text-align: justify">An armed conflict between Israel and Hamas-led Palestinian militant groups has been taking place chiefly in and around the Gaza Strip since 7 October 2023. It began when Hamas militants launched a surprise attack on southern Israel from the Gaza Strip. The war has had significant international repercussions, such as the death of 32,000 Palestinians in Gaza, which has lead to large protests across the world, primarily pro-Palestinian ones calling for a ceasefire and an end to the Israeli occupation.</p>
 							</div>
 
-							<div class="preview" data-target="p-4" style="border-bottom-right-radius: 50px !important">
+							<div class="preview" data-target="p-4" style="border-bottom-right-radius: 50px !important; margin-top:100px">
 								<i class="fa fa-times" style="font-size: 20px"></i>
 								<img style="border-radius:10px" src="images/oeadirector.jpg" alt="oea"><br>
 								<h3>OEA</h3>
 								<p style="text-align: justify">Ahsoka Tano, former Jedi Padawan, faced allegations of sedition by the Jedi Order and Republic. Exonerated following thorough investigation led by Jedi Knight Anakin Skywalker, uncovering Barriss Offee as the true perpetrator. Declined reinstatement into the Jedi Order, choosing to pursue an independent path.</p>
 							</div>
 
-							<div class="preview" data-target="p-5" style="border-bottom-right-radius: 50px !important">
+							<div class="preview" data-target="p-5" style="border-bottom-right-radius: 50px !important; margin-top:100px">
 								<i class="fa fa-times" style="font-size: 20px"></i>
 								<img style="border-radius:10px" src="images/natodirector.jpg" alt="unodc" ><br>
 								<h3>NATO</h3>
 								<p style="text-align: justify">Drug trafficking, narcotics trafficking or simply drug trafficking, is the trade in illegal addictive drugs, mainly cocaine. The main economic basis of this phenomenon is this substance, since its purchase and sale finances most of a phenomenon that encompasses the manufacture, distribution, sale, market control and recycling of many narcotics. A UN study indicates that global substance trafficking generated approximately 0.3216 billion dollars in 2003, representing 0.83% of the global gross domestic product of that year.</p>
 							</div>
 
-							<div class="preview" data-target="p-6" style="border-bottom-right-radius: 50px !important">
+							<div class="preview" data-target="p-6" style="border-bottom-right-radius: 50px !important; margin-top:100px">
 								<i class="fa fa-times" style="font-size: 20px"></i>
 								<img style="border-radius:10px" src="images/unicefdirector.jpg" alt="prensa" ><br>
 								<h3>UNICEF</h3>
 								<p style="text-align: justify">El Comité de Prensa es un grupo de delegados que actúan como periodistas representando a diversas agencias de noticias y serán responsables de informar sobre los acontecimientos ocurridos en la conferencia y los respectivos debates. Además, los delegados de prensa tienen la tarea vital de crear actualizaciones, que les permiten analizar dinámicas geopolíticas complejas e informar al mundo sobre los acontecimientos que se desarrollan. Además, tienen la oportunidad de abordar nuevos ángulos de la historia haciendo preguntas incisivas en conferencias de prensa y entrevistas.</p>
 							</div>
 							
-							<div class="preview" data-target="p-7" style="border-bottom-right-radius: 50px !important">
+							<div class="preview" data-target="p-7" style="border-bottom-right-radius: 50px !important; margin-top:100px">
 								<i class="fa fa-times" style="font-size: 20px"></i>
 									<img style="border-radius:10px" src="images/guides.jpg" alt="guides" ><br>
 										<h3>Study Guides</h3>
